@@ -1,0 +1,44 @@
+{
+    "Buildings": {
+        "Cannon": 15,
+        "Archer Tower": 18,
+        "Mortar": 12
+    },
+    "Heroes": {
+        "Barbarian King": 60,
+        "Archer Queen": 55,
+        "Grand Warden": 45,
+        "Royal Champion": 35,
+        "Minion Prince": 52
+    },
+    "Troops": {
+        "Barbarian": 100,
+        "Archer": 100,
+        "Giant": 100,
+        "Goblin": 100,
+        "Wall Breaker": 100,
+        "Balloon": 100,
+        "Wizard": 100,
+        "Healer": 100,
+        "Dragon": 100,
+        "P.E.K.K.A": 9,
+        "Baby Dragon": 5,
+        "Miner": 9,
+        "Electro Dragon": 5,
+        "Yeti": 3,
+        "Electro Titan": 1,
+        "Root Rider": 0,
+        "Thrower": 0,
+        "Minion": 10,
+        "Hog Rider": 11,
+        "Valkyrie": 10,
+        "Golem": 8,
+        "Witch": 5,
+        "Lava Hound": 6,
+        "Bowler": 5,
+        "Ice Golem": 5,
+        "Head Hunter": 3,
+        "Apprentice Warden": 2,
+        "Druid": 1
+    }
+}
