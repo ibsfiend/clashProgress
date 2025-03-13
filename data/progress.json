@@ -12,7 +12,37 @@
         "Army": {
             "Barracks": [
                 { "level": 8, "count": 1 }
-            ]
+            ],
+            "Dark Barracks": [
+                { "level": 8, "count": 1 }
+            ],
+            "Spell Factory": [
+                { "level": 8, "count": 1 }
+            ],
+            "Dark Spell Factory": [
+                { "level": 8, "count": 1 }
+            ],
+            "Workshop": [
+                { "level": 8, "count": 1 }
+            ],
+            "Laboratory": [
+                { "level": 8, "count": 1 }
+            ],
+            "Army Camp": [
+                { "level": 8, "count": 1 }
+            ],
+            "Hero Hall": [
+                { "level": 8, "count": 1 }
+            ],
+            "Pet House": [
+                { "level": 8, "count": 1 }
+            ],
+            "Blacksmith": [
+                { "level": 8, "count": 1 }
+            ],
+            "Clan Castle": [
+                { "level": 8, "count": 1 }
+            ]  
         },
         "Resource": {
             "Gold Storage": [
