@@ -17,7 +17,23 @@
         "Resource": {
             "Gold Storage": [
                 { "level": 5, "count": 2 }
+            ],
+            "Elixir Storage": [
+                { "level": 5, "count": 2 }
+            ],
+            "Dark Elixir Storage": [
+                { "level": 5, "count": 2 }
+            ],
+            "Elixir Collector": [
+                { "level": 5, "count": 2 }
+            ],
+            "Dark Elixir Collector": [
+                { "level": 5, "count": 2 }
+            ],
+            "Gold Mine": [
+                { "level": 5, "count": 2 }
             ]
+            
         },
         "Traps": {
             "Air Bombs": [
