@@ -7,6 +7,39 @@
             ],
             "Archer Towers": [
                 { "level": 5, "count": 2 }
+            ],
+            "Wizard Towers": [
+                { "level": 5, "count": 2 }
+            ],
+            "Mortars": [
+                { "level": 5, "count": 2 }
+            ],
+            "Air Defense": [
+                { "level": 5, "count": 2 }
+            ],
+            "Bomb Tower": [
+                { "level": 1, "count": 1 }
+            ],
+            "Inferno Towers": [
+                { "level": 1, "count": 1 }
+            ],
+            "X-Bows": [
+                { "level": 1, "count": 1 }
+            ],
+            "Builder's Hut": [
+                { "level": 1, "count": 1 }
+            ],
+            "Scattershot": [
+                { "level": 1, "count": 1 }
+            ],
+            "Eagle Artillery": [
+                { "level": 1, "count": 1 }
+            ],
+            "Mortar": [
+                { "level": 1, "count": 1 }
+            ],
+            "Air Sweeper": [
+                { "level": 1, "count": 1 }
             ]
         },
         "Army": {
@@ -90,7 +123,15 @@
             "Skeleton Trap": [
                 { "level": 1, "count": 1 }
             ]
-            
+        },
+        "Support": {
+            "Helper Hut": [
+                { "Builder": 1, "Lab": 1, "Alchemist": 1 }
+            ],
+            "Bob Control": 1,
+            "Walls": [
+                { "level": 1, "count": 1 }
+            ]
         }
     },
     "Heroes": {
@@ -154,5 +195,15 @@
             "Bat": 0,
             "Overgrowth": 0
         }
+    },
+    "Siege Machines": {
+        "Wall Wrecker": 1,
+        "Stone Slammer": 1,
+        "Log Launcher": 1,
+        "Battle Blimp": 1,
+        "Siege Barracks": 1,
+        "Flame Flinger": 1,
+        "Battle Drill": 1,
+        "Troop Launcher": 1
     }
 }
