@@ -64,13 +64,22 @@
     "Spells": {
         "Elixir Spells": {
             "Lightning": 10,
-            "Fireball": 10,
-            "Rocket": 10
+            "Healing": 10,
+            "Rage": 10,
+            "Jump": 0,
+            "Clone": 0,
+            "Freeze": 0,
+            "Invisibility": 0,
+            "Recall": 0,
+            "Revive": 0
         },
-        "Dark ElixirSpells": {
-            "Poison": 10,
-            "Earthquake": 10,
-            "Haste": 10
+        "Dark Elixir Spells": {
+            "Poison": 0,
+            "Earthquake": 0,
+            "Haste": 0,
+            "Skeleton": 0,
+            "Bat": 0,
+            "Overgrowth": 0
         }
     }
 }
