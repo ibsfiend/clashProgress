@@ -18,6 +18,33 @@
             "Gold Storage": [
                 { "level": 5, "count": 2 }
             ]
+        },
+        "Traps": {
+            "Air Bombs": [
+                { "level": 1, "count": 1 }
+            ],
+            "Bombs": [
+                { "level": 1, "count": 1 }
+            ],
+            "Seeking Air Mines": [
+                { "level": 1, "count": 1 }
+            ],
+            "Giant Bombs": [
+                { "level": 1, "count": 1 }
+            ],
+            "Spring Traps": [
+                { "level": 1, "count": 1 }
+            ],
+            "Hidden Tesla": [
+                { "level": 1, "count": 1 }
+            ],
+            "Tornado Trap": [
+                { "level": 1, "count": 1 }
+            ],
+            "Skeleton Trap": [
+                { "level": 1, "count": 1 }
+            ]
+            
         }
     },
     "Heroes": {
