@@ -8,13 +8,24 @@ public class FileHandler {
         if(!File.Exists(path)) {
             throw new FileNotFoundException($"File not found: {path}");
         }
-        string jsonString = File.ReadAllText(path);
-        return JsonSerializer.Deserialize<T>(jsonString);
+
+        try {
+            string jsonString = File.ReadAllText(path);
+            return JsonSerializer.Deserialize<T>(jsonString);
+        } catch (Exception e) {
+            throw new Exception($"Error loading JSON file: {e.Message}");
+        }
     }
 
     public static void SaveJson<T>(string path, T data) {
-        string jsonString = JsonSerializer.Serialize(data);
-        File.WriteAllText(path, jsonString);
+        try {
+            string jsonString = JsonSerializer.Serialize(data, new JsonSerializerOptions {
+                WriteIndented = true
+            });
+            File.WriteAllText(path, jsonString);
+        } catch (Exception e) {
+            throw new Exception($"Error saving JSON file: {e.Message}");
+        }
     }
 }
 
