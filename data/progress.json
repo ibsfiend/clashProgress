@@ -197,14 +197,44 @@
             ]
         },
         "Grand Warden": {
-            "Helmet": 1,
-            "Armor": 1,
-            "Boots": 1
+            "Eternal Tome": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Life Gem": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Healing Tome": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Rage Gem": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Lavaloon Puppet": [
+                { "Rarity": "Epic", "Level": 1 }
+            ],
+            "Fireball": [
+                { "Rarity": "Epic", "Level": 1 }
+            ]
         },
         "Royal Champion": {
-            "Helmet": 1,
-            "Armor": 1,
-            "Boots": 1
+            "Seeking Shield":    [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Royal Gem": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Hog Puppet": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Haste Vial": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Electro Boots": [
+                { "Rarity": "Epic", "Level": 1 }
+            ],
+            "Rocket Spear": [
+                { "Rarity": "Epic", "Level": 1 }
+            ]
         }
         
     },
