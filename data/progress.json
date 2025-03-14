@@ -141,6 +141,73 @@
         "Royal Champion": 35,
         "Minion Prince": 52
     },
+    "Hero Equipment": {
+        "Barbarian King": {
+            "Barbarian Puppet": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Rage Vial": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Earthquake Boots": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Vampire Stache": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Giant Gauntlet": [
+                { "Rarity": "Epic", "Level": 1 }
+            ],
+            "Spikey Ball": [
+                { "Rarity": "Epic", "Level": 1 }
+            ],
+            "Snake Bracelet": [
+                { "Rarity": "Epic", "Level": 1 }
+            ]
+        },
+        "Archer Queen": {
+            "Archer Puppet": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Invisibility Vial": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Giant Arrow": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Healer Puppet": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Magic Mirror": [
+                { "Rarity": "Epic", "Level": 1 }
+            ],
+            "Frozen Arrow": [
+                { "Rarity": "Epic", "Level": 1 }
+            ]
+        },
+        "Minion Prince": {
+            "Henchmen Puppet": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Dark Orb": [
+                { "Rarity": "Common", "Level": 1 }
+            ],
+            "Metal Pants": [
+                { "Rarity": "Common", "Level": 1 }
+            ]
+        },
+        "Grand Warden": {
+            "Helmet": 1,
+            "Armor": 1,
+            "Boots": 1
+        },
+        "Royal Champion": {
+            "Helmet": 1,
+            "Armor": 1,
+            "Boots": 1
+        }
+        
+    },
     "Troops": {
         "Elixir Troops": {
             "Barbarian": 100,
