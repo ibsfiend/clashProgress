@@ -1,0 +1,5 @@
+C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfoInputs.cache
+C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfo.cs
+C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.csproj.CoreCompileInputs.cache
+C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.sourcelink.json
