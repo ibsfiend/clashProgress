@@ -2,8 +2,7 @@ using System;
 using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
-using clashProgress.src;
-using clashProgress.data;
+using clashProgress;
 
 public class FileHandlerTest {
     public static void Main(string[] args) {

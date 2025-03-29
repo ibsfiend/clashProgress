@@ -3,3 +3,8 @@ C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.Asse
 C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfo.cs
 C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.csproj.CoreCompileInputs.cache
 C:\Users\j1tyl\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.sourcelink.json
+C:\Users\goobis\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goobis\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfoInputs.cache
+C:\Users\goobis\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfo.cs
+C:\Users\goobis\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.csproj.CoreCompileInputs.cache
+C:\Users\goobis\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.sourcelink.json
