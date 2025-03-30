@@ -121,14 +121,16 @@
                 { "level": 1, "count": 1 }
             ],
             "Skeleton Trap": [
-                { "level": 1, "count": 1 }
+                { "level": 1, "count": 1 } 
             ]
         },
         "Support": {
             "Helper Hut": [
                 { "Builder": 1, "Lab": 1, "Alchemist": 1 }
             ],
-            "Bob Control": 1,
+            "Bob Control": [
+                { "owned": 1 }
+            ],  
             "Walls": [
                 { "level": 1, "count": 1 }
             ]
