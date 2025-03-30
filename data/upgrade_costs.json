@@ -553,21 +553,30 @@
         },
         "Scattershot": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "7d",  
+                 "resources": { "gold": 8000000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "8d",
+                 "resources": { "gold": 9000000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "8d 12h",
+                 "resources": { "gold": 11000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "8d 18h",
+                 "resources": { "gold": 11500000 } 
+                 },
+            "5": {
+                 "time": "9d",
+                 "resources": { "gold": 12000000 } 
+                 },
+            "6": {
+                 "time": "15d 18h",
+                 "resources": { "gold": 22000000 } 
                  }
+                 
         },
         "Eagle Artillery": {
             "1": {
