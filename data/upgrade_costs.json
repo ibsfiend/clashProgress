@@ -986,51 +986,50 @@
         },
         "Pet House": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "2d",  
+                 "resources": { "elixir": 3000000 } 
                  }, 
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "3d",
+                 "resources": { "elixir": 4000000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "3d 12h",
+                 "resources": { "elixir": 5000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "4d",
+                 "resources": { "elixir": 6000000 } 
                  },
             "5": {
-                 "time": "2d",
-                 "resources": { "gold": 100 } 
+                 "time": "5d",
+                 "resources": { "elixir": 7000000 } 
                  },
             "6": {
-                 "time": "3d",
-                 "resources": { "gold": 100 } 
+                 "time": "5d 12h",
+                 "resources": { "elixir": 8000000 } 
                  },
             "7": {
-                 "time": "4d",
-                 "resources": { "gold": 100 } 
+                 "time": "6d",
+                 "resources": { "elixir": 9000000 } 
                  },
             "8": {
-                 "time": "5d",
-                 "resources": { "gold": 100 } 
+                 "time": "7d",
+                 "resources": { "elixir": 10000000 } 
                  },
             "9": {
-                 "time": "6d",
-                 "resources": { "gold": 100 }
+                 "time": "7d 12h",
+                 "resources": { "elixir": 11000000 }
                  },
             "10": {
-                 "time": "7d",
-                 "resources": { "gold": 100 }
+                 "time": "8d",
+                 "resources": { "elixir": 12000000 }
                  },
             "11": {
-                 "time": "8d",
-                 "resources": { "gold": 100 }
+                 "time": "15d 12h",
+                 "resources": { "elixir": 22000000 }
                  }
         },
-
         "Blacksmith": {
             "1": {
                  "time": "2m",  
