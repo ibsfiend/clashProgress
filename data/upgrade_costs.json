@@ -1630,21 +1630,49 @@
         },
         "Giant Bombs": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "0m",  
+                 "resources": { "gold": 12500 } 
+                 },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "1h",
+                 "resources": { "gold": 75000 } 
+                 },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "3h",
+                 "resources": { "gold": 220000 } 
+                 },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
-            }
+                 "time": "8h",
+                 "resources": { "gold": 750000 } 
+                 },
+          "5": {
+                    "time": "10h",
+                    "resources": { "gold": 900000 } 
+                 },
+          "6": {
+                    "time": "11h",
+                    "resources": { "gold": 1300000 } 
+                 },
+          "7": {
+                    "time": "12h",
+                    "resources": { "gold": 1500000 } 
+                 },
+          "8": {
+                    "time": "2d",
+                    "resources": { "gold": 2500000 } 
+                 },
+          "9": {
+                    "time": "3d",
+                    "resources": { "gold": 4000000 } 
+                 },
+          "10": {
+                    "time": "4d",
+                    "resources": { "gold": 5500000 } 
+                 },
+          "11": {
+                    "time": "9d",
+                    "resources": { "gold": 12000000 } 
+                 }
         },
         "Spring Traps": {
             "1": {
