@@ -1124,38 +1124,150 @@
         },
         "Gold Storage": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "10s",
+                 "resources": { "elixir": 300 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "elixir": 750 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
-                 }, 
+                 "time": "5m",
+                 "resources": { "elixir": 1500 } 
+                 },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "15m",
+                 "resources": { "elixir": 3000 } 
+                 },
+            "5": {
+                 "time": "30m",
+                 "resources": { "elixir": 6000 } 
+                 },
+            "6": {
+                 "time": "1h",
+                 "resources": { "elixir": 12000 } 
+                 },
+            "7": {
+                 "time": "2h",
+                 "resources": { "elixir": 25000 } 
+                 },
+            "8": {
+                 "time": "3h",
+                 "resources": { "elixir": 50000 } 
+                 },
+            "9": {
+                 "time": "4h",
+                 "resources": { "elixir": 100000 } 
+                 },
+            "10": {
+                 "time": "5h",
+                 "resources": { "elixir": 250000 } 
+                 },
+            "11": {
+                 "time": "6h",
+                 "resources": { "elixir": 500000 } 
+                 },
+            "12": {
+                 "time": "12h",
+                 "resources": { "elixir": 1000000 } 
+                 },
+            "13": {
+                 "time": "1d",
+                 "resources": { "elixir": 1800000 } 
+                 },
+            "14": {
+                 "time": "2d",
+                 "resources": { "elixir": 2800000 } 
+                 },
+            "15": {
+                 "time": "3d",
+                 "resources": { "elixir": 3000000 } 
+                 },
+            "16": {
+                 "time": "4d",
+                 "resources": { "elixir": 4000000 } 
+                 },
+            "17": {
+                 "time": "5d",
+                 "resources": { "elixir": 5500000 } 
+                 },
+            "18": {
+                 "time": "12d 12h",
+                 "resources": { "elixir": 10000000 } 
                  }
         },
         "Elixir Storage": { 
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "10s",
+                 "resources": { "gold": 300 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "gold": 750 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "5m",
+                 "resources": { "gold": 1500 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "15m",
+                 "resources": { "gold": 3000 } 
+                 },
+            "5": {
+                 "time": "30m",
+                 "resources": { "gold": 6000 } 
+                 },
+            "6": {
+                 "time": "1h",
+                 "resources": { "gold": 12000 } 
+                 },
+            "7": {
+                 "time": "2h",
+                 "resources": { "gold": 25000 } 
+                 },
+            "8": {
+                 "time": "3h",
+                 "resources": { "gold": 50000 } 
+                 },
+            "9": {
+                 "time": "4h",
+                 "resources": { "gold": 100000 } 
+                 },
+            "10": {
+                 "time": "5h",
+                 "resources": { "gold": 250000 } 
+                 },
+            "11": {
+                 "time": "6h",
+                 "resources": { "gold": 500000 } 
+                 },
+            "12": {
+                 "time": "12h",
+                 "resources": { "gold": 1000000 } 
+                 },
+            "13": {
+                 "time": "1d",
+                 "resources": { "gold": 1800000 } 
+                 },
+            "14": {
+                 "time": "2d",
+                 "resources": { "gold": 2800000 } 
+                 },
+            "15": {
+                 "time": "3d",
+                 "resources": { "gold": 3000000 } 
+                 },
+            "16": {
+                 "time": "4d",
+                 "resources": { "gold": 4000000 } 
+                 },
+            "17": {
+                 "time": "5d",
+                 "resources": { "gold": 5500000 } 
+                 },
+            "18": {
+                 "time": "12d 12h",
+                 "resources": { "gold": 10000000 } 
                  }
         },
         "Dark Elixir Storage": {    
