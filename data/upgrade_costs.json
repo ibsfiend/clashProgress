@@ -714,20 +714,52 @@
         },
         "Dark Barracks": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "8h",  
+                 "resources": { "elixir": 200000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "1d",
+                 "resources": { "elixir": 600000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "1d 12h",
+                 "resources": { "elixir": 1000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "2d",
+                 "resources": { "elixir": 1600000 } 
+                 },
+            "5": {
+                 "time": "2d 12h",
+                 "resources": { "elixir": 2200000 } 
+                 },
+            "6": {
+                 "time": "3d",
+                 "resources": { "elixir": 2900000 } 
+                 },
+            "7": {
+                 "time": "5d",
+                 "resources": { "elixir": 4000000 }
+                 },
+            "8": {
+                 "time": "6d",
+                 "resources": { "elixir": 7000000 }
+                 },
+            "9": {
+                 "time": "7d",
+                 "resources": { "elixir": 7200000 }
+                 },
+            "10": {
+                 "time": "8d",
+                 "resources": { "elixir": 10000000 }
+                 },
+            "11": {
+                 "time": "9d",
+                 "resources": { "elixir": 12000000 }
+                 },
+            "12": {
+                 "time": "12d",
+                 "resources": { "elixir": 20000000 }
                  }
         },
         "Dark Spell Factory": {
