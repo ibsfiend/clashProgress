@@ -1322,56 +1322,176 @@
         },
         "Elixir Collector": {   
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "5s",
+                 "resources": { "gold": 150 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "15s",
+                 "resources": { "gold": 300 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "1m",
+                 "resources": { "gold": 700 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "gold": 1400 } 
+                 },
+            "5": {
+                 "time": "5m",
+                 "resources": { "gold": 3000 } 
+                 },
+            "6": {
+                 "time": "15m",
+                 "resources": { "gold": 7000 } 
+                 },
+            "7": {
+                 "time": "30m",
+                 "resources": { "gold": 14000 } 
+                 },
+            "8": {
+                 "time": "1h",
+                 "resources": { "gold": 28000 } 
+                 },
+            "9": {
+                 "time": "2h",
+                 "resources": { "gold": 56000 } 
+                 },
+            "10": {
+                 "time": "3h",
+                 "resources": { "gold": 75000 } 
+                 },
+            "11": {
+                 "time": "4h",
+                 "resources": { "gold": 85000 } 
+                 },
+            "12": {
+                 "time": "6h",
+                 "resources": { "gold": 170000 } 
+                 },
+            "13": {
+                 "time": "8h",
+                 "resources": { "gold": 400000 } 
+                 },
+            "14": {
+                 "time": "12h",
+                 "resources": { "gold": 800000 } 
+                 },
+            "15": {
+                 "time": "1d",
+                 "resources": { "gold": 1200000 } 
+                 },
+            "16": {
+                 "time": "2d",
+                 "resources": { "gold": 2000000  } 
                  }
         },
-        "Dark Elixir Collector": {  
+        "Dark Elixir Drill": {  
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "4h",  
+                 "resources": { "elixir": 180000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "6h",
+                 "resources": { "elixir": 270000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "12h",
+                 "resources": { "elixir": 540000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "18h",
+                 "resources": { "elixir": 900000 } 
+                 },
+                 "5": {
+                    "time": "1d",
+                    "resources": { "elixir": 1200000 } 
+                 },
+                 "6": {
+                    "time": "1d 12h",
+                    "resources": { "elixir": 1800000 } 
+                 },
+                 "7": {
+                    "time": "1d 18h",
+                    "resources": { "elixir": 2100000 } 
+                 },
+                 "8": {
+                    "time": "2d",
+                    "resources": { "elixir": 2400000 } 
+                 },
+                 "9": {
+                    "time": "3d",
+                    "resources": { "elixir": 3700000 } 
+                 },
+                 "10": {
+                    "time": "4d",
+                    "resources": { "elixir": 5300000 } 
                  }
         },
         "Gold Mine": {  
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "5s",
+                 "resources": { "elixir": 150 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "15s",
+                 "resources": { "elixir": 300 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "1m",
+                 "resources": { "elixir": 700 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "elixir": 1400 } 
+                 },
+            "5": {
+                 "time": "5m",
+                 "resources": { "elixir": 3000 } 
+                 },
+            "6": {
+                 "time": "15m",
+                 "resources": { "elixir": 7000 } 
+                 },
+            "7": {
+                 "time": "30m",
+                 "resources": { "elixir": 14000 } 
+                 },
+            "8": {
+                 "time": "1h",
+                 "resources": { "elixir": 28000 } 
+                 },
+            "9": {
+                 "time": "2h",
+                 "resources": { "elixir": 56000 } 
+                 },
+            "10": {
+                 "time": "3h",
+                 "resources": { "elixir": 75000 } 
+                 },
+            "11": {
+                 "time": "4h",
+                 "resources": { "elixir": 85000 } 
+                 },
+            "12": {
+                 "time": "6h",
+                 "resources": { "elixir": 170000 } 
+                 },
+            "13": {
+                 "time": "8h",
+                 "resources": { "elixir": 400000 } 
+                 },
+            "14": {
+                 "time": "12h",
+                 "resources": { "elixir": 800000 } 
+                 },
+            "15": {
+                 "time": "1d",
+                 "resources": { "elixir": 1200000 } 
+                 },
+            "16": {
+                 "time": "2d",
+                 "resources": { "elixir": 2000000  } 
                  }
         },
         "Air Bombs": {   
