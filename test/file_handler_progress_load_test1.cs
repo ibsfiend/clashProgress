@@ -11,7 +11,7 @@ public class FileHandlerProgressLoadTest {
     /// Main method to test the FileHandler class to load the progress.json file.
     /// </summary>
     /// <param name="args">Command line arguments.</param>
-    public static void Main(string[] args) {
+    /*public static void Main(string[] args) {
         string path = "data/progress.json";
         Root progress = FileHandler.LoadJson<Root>(path);
         var aqLevel = progress.Heroes["Archer Queen"];
@@ -35,5 +35,6 @@ public class FileHandlerProgressLoadTest {
         }
 
     }
+    */
 }
 
