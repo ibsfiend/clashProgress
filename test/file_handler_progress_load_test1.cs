@@ -14,11 +14,11 @@ public class FileHandlerProgressLoadTest {
     public static void Main(string[] args) {
         string path = "data/progress.json";
         Root progress = FileHandler.LoadJson<Root>(path);
-       var aqLevel = progress.Heroes["Archer Queen"];
-       Console.WriteLine("Archer Queen Level: " + aqLevel);
-       var atList = progress.Buildings["Defense"]["Archer Towers"]; 
-       var level6at = atList.FirstOrDefault(at => at.Level == 6);
-       Console.WriteLine("Number of Archer Towers at level 6: " + level6at.Count);
+        var aqLevel = progress.Heroes["Archer Queen"];
+        Console.WriteLine("Archer Queen Level: " + aqLevel);
+        var atList = progress.Buildings["Defense"]["Archer Towers"]; 
+        var level6at = atList.FirstOrDefault(at => at.Level == 6);
+        Console.WriteLine("Number of Archer Towers at level 6: " + level6at.Count);
     }
 }
 
