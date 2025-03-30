@@ -764,20 +764,28 @@
         },
         "Dark Spell Factory": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "6h",  
+                 "resources": { "elixir": 130000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "12h",
+                 "resources": { "elixir": 260000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "2d",
+                 "resources": { "elixir": 600000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "4d",
+                 "resources": { "elixir": 1200000 } 
+                 },
+            "5": {
+                 "time": "5d",
+                 "resources": { "elixir": 2500000 } 
+                 },
+            "6": {
+                 "time": "6d",
+                 "resources": { "elixir": 4000000 } 
                  }
         },
         "Workshop": {
