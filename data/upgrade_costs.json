@@ -1070,20 +1070,56 @@
         },
         "Clan Castle": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "0m",  
+                 "resources": { "elixir": 10000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2h",
+                 "resources": { "elixir": 50000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "12h",
+                 "resources": { "elixir": 600000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "1d",
+                 "resources": { "elixir": 1200000 } 
+                 },
+            "5": {
+                 "time": "1d 12h",
+                 "resources": { "elixir": 2000000 } 
+                 },
+            "6": {
+                 "time": "2d",
+                 "resources": { "elixir": 3000000 } 
+                 },
+            "7": {
+                 "time": "3d",
+                 "resources": { "elixir": 5000000 } 
+                 },
+            "8": {
+                 "time": "4d",
+                 "resources": { "elixir": 5000000 } 
+                 },
+            "9": {
+                 "time": "6d",
+                 "resources": { "elixir": 8000000 } 
+                 },
+            "10": {
+                 "time": "7d",
+                 "resources": { "elixir": 10000000 } 
+                 },
+            "11": {
+                 "time": "8d",
+                 "resources": { "elixir": 12000000 } 
+                 },
+            "12": {
+                 "time": "9d",
+                 "resources": { "elixir": 14500000 } 
+                 },
+            "13": {
+                 "time": "16d",
+                 "resources": { "elixir": 20500000 } 
                  }
         },
         "Gold Storage": {
