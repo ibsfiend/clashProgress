@@ -1272,20 +1272,52 @@
         },
         "Dark Elixir Storage": {    
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "8h",
+                 "resources": { "elixir": 250000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "16h",
+                 "resources": { "elixir": 500000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "1d",
+                 "resources": { "elixir": 1000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "1d 12h",
+                 "resources": { "elixir": 1500000 } 
+                 },
+            "5": {
+                 "time": "1d 16h",
+                 "resources": { "elixir": 2000000 } 
+                 },
+            "6": {
+                 "time": "2d",
+                 "resources": { "elixir": 2400000 } 
+                 },
+            "7": {
+                 "time": "3d",
+                 "resources": { "elixir": 3800000 } 
+                 },
+            "8": {
+                 "time": "4d 12h",
+                 "resources": { "elixir": 5400000 } 
+                 },
+            "9": {
+                 "time": "5d",
+                 "resources": { "elixir": 6600000 } 
+                 },
+            "10": {
+                 "time": "5d 12h",
+                 "resources": { "elixir": 8000000 } 
+                 },
+            "11": {
+                 "time": "6d",
+                 "resources": { "elixir": 10500000 } 
+                 },
+            "12": {
+                 "time": "15d",
+                 "resources": { "elixir": 16000000 } 
                  }
         },
         "Elixir Collector": {   
