@@ -790,20 +790,36 @@
         },
         "Workshop": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "2d",  
+                 "resources": { "elixir": 2400000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "3d",
+                 "resources": { "elixir": 3700000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "4d",
+                 "resources": { "elixir": 5000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "7d",
+                 "resources": { "elixir": 8700000 } 
+                 },
+            "5": {
+                 "time": "7d 6h",
+                 "resources": { "elixir": 9000000 } 
+                 },
+            "6": {
+                 "time": "7d 12h",
+                 "resources": { "elixir": 10000000 } 
+                 },
+            "7": {
+                 "time": "7d 18h",
+                 "resources": { "elixir": 11000000 } 
+                 },
+            "8": {
+                 "time": "8d",
+                 "resources": { "elixir": 13000000 } 
                  }
         },
         "Laboratory": {
