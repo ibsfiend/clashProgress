@@ -244,20 +244,72 @@
         },
         "Mortars": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "30m",  
+                 "resources": { "gold": 5000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "1h",
+                 "resources": { "gold": 25000 } 
                  },
             "3": {
                  "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 90000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "3h",
+                 "resources": { "gold": 180000 } 
+                 },
+            "5": {
+                 "time": "6h",
+                 "resources": { "gold": 300000 } 
+                 },
+            "6": {
+                 "time": "8h",
+                 "resources": { "gold": 500000 } 
+                 },
+            "7": {
+                 "time": "12h",
+                 "resources": { "gold": 900000 } 
+                 },
+            "8": {
+                 "time": "18h",
+                 "resources": { "gold": 1200000 } 
+                 },
+            "9": {
+                 "time": "20h",
+                 "resources": { "gold": 1600000 } 
+                 },
+            "10": {
+                 "time": "1d",
+                 "resources": { "gold": 1800000 } 
+                 }, 
+            "11": {
+                 "time": "1d 6h",
+                 "resources": { "gold": 2300000 } 
+                 },
+            "12": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 2400000 } 
+                 },
+            "13": {
+                 "time": "2d",
+                 "resources": { "gold": 2800000 } 
+                 },
+            "14": {
+                 "time": "2d 12h",
+                 "resources": { "gold": 4300000 } 
+                 },
+            "15": {
+                 "time": "3d 12h",
+                 "resources": { "gold": 5000000 } 
+                 },
+            "16": {
+                 "time": "5d",
+                 "resources": { "gold": 7000000 } 
+                 },
+            "17": {
+                 "time": "14d 12h",
+                 "resources": { "gold": 19500000 } 
                  }
         },
         "Air Defense": {
