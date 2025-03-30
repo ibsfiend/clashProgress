@@ -2,56 +2,88 @@
     "Buildings": {
         "Cannons": {
             "1": {
-                 "time": "1m",
-                 "resources": { "gold": 100 } 
+                 "time": "5s",
+                 "resources": { "gold": 250 } 
                  },
             "2": {
-                 "time": "3m",
-                 "resources": { "gold": 100 } 
+                 "time": "30s",
+                 "resources": { "gold": 1000 } 
                  },
             "3": {
-                 "time": "10m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "gold": 4000 } 
                  },
             "4": {
-                 "time": "1h 30m",
-                 "resources": { "gold": 100 } 
+                 "time": "20m",
+                 "resources": { "gold": 16000 } 
                  },
             "5": {
-                 "time": "2d 5h",
-                 "resources": { "gold": 100 } 
+                 "time": "30m",
+                 "resources": { "gold": 50000 } 
                  },
             "6": {
-                 "time": "4d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "1h",
+                 "resources": { "gold": 60000 } 
                  },
             "7": {
-                 "time": "8d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "2h",
+                 "resources": { "gold": 100000 } 
                  },
             "8": {
-                 "time": "16d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "4h",
+                 "resources": { "gold": 160000} 
                  },
             "9": {
-                 "time": "32d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "3h 30m",
+                 "resources": { "gold":  250000} 
                  },
             "10": {
-                 "time": "64d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "4h",
+                 "resources": { "gold": 330000 } 
                  },
             "11": {
-                 "time": "128d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "4h 30m",
+                 "resources": { "gold": 500000 } 
                  },
             "12": {
-                 "time": "256d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "5h",
+                 "resources": { "gold": 600000 } 
                  },
             "13": {
-                 "time": "512d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "6h",
+                 "resources": { "gold": 660000 } 
+                 },
+            "14": {
+                 "time": "8h",
+                 "resources": { "gold": 1000000 } 
+                 },
+            "15": {
+                 "time": "10h",
+                 "resources": { "gold": 1200000 } 
+                 },
+            "16": {
+                 "time": "11h",
+                 "resources": { "gold": 1300000 } 
+                 },
+            "17": {
+                 "time": "12h",
+                 "resources": { "gold": 1500000 } 
+                 },
+            "18": {
+                 "time": "20h",
+                 "resources": { "gold": 1800000 } 
+                 },
+            "19": {
+                 "time": "1d",
+                 "resources": { "gold": 2000000 } 
+                 },
+            "20": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 2600000 } 
+                 },
+            "21": {
+                 "time": "2d",
+                 "resources": { "gold": 3000000 } 
                  }
         },
         "Archer Towers": {
