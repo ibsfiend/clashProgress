@@ -88,20 +88,88 @@
         },
         "Archer Towers": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
+                 "time": "15s",
+                 "resources": { "gold": 1000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "gold": 2000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "20m",
+                 "resources": { "gold": 5000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "1h",
+                 "resources": { "gold": 20000 } 
+                 },
+            "5": {
+                 "time": "1h 30m",
+                 "resources": { "gold": 70000 } 
+                 },
+            "6": {
+                 "time": "2h",
+                 "resources": { "gold": 18000000 } 
+                 },
+            "7": {
+                 "time": "3h",
+                 "resources": { "gold": 150000 } 
+                 },
+            "8": {
+                 "time": "4h",
+                 "resources": { "gold": 200000 } 
+                 },
+            "9": {
+                 "time": "5h",
+                 "resources": { "gold": 400000 } 
+                 },
+            "10": {
+                 "time": "6h",
+                 "resources": { "gold": 460000 } 
+                 },
+            "11": {
+                 "time": "7h",
+                 "resources": { "gold": 600000 } 
+                 },
+            "12": {
+                 "time": "8h",
+                 "resources": { "gold": 700000 } 
+                 },
+            "13": {
+                 "time": "10h",
+                 "resources": { "gold": 1000000 } 
+                 },
+            "14": {
+                 "time": "11h",
+                 "resources": { "gold": 1100000 } 
+                 },
+            "15": {
+                 "time": "12h",
+                 "resources": { "gold": 1300000 } 
+                 },
+            "16": {
+                 "time": "20h",
+                 "resources": { "gold": 1600000 } 
+                 },
+            "17": {
+                 "time": "1d",
+                 "resources": { "gold": 1800000 } 
+                 },
+            "18": {
+                 "time": "1d 6h",
+                 "resources": { "gold": 2000000 } 
+                 },
+            "19": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 2200000 } 
+                 },
+            "20": {
+                 "time": "2d",
+                 "resources": { "gold": 3000000 } 
+                 },
+            "21": {
+                 "time": "3d",
+                 "resources": { "gold": 4000000 } 
                  }
         },
         "Wizard Towers": {
