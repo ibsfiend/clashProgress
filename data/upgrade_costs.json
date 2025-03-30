@@ -824,20 +824,64 @@
         },
         "Laboratory": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "1m",  
+                 "resources": { "elixir": 5000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "30m",
+                 "resources": { "elixir": 25000 } 
                  },
             "3": {
                  "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "elixir": 50000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "4h",
+                 "resources": { "elixir": 100000 } 
+                 },
+            "5": {
+                 "time": "8h",
+                 "resources": { "elixir": 200000 } 
+                 },
+            "6": {
+                 "time": "16h",
+                 "resources": { "elixir": 400000 } 
+                 },
+            "7": {
+                 "time": "1d",
+                 "resources": { "elixir": 800000 } 
+                 },
+            "8": {
+                 "time": "1d 18h",
+                 "resources": { "elixir": 1300000 } 
+                 },
+            "9": {
+                 "time": "2d 18h",
+                 "resources": { "elixir": 2100000 } 
+                 },
+            "10": {
+                 "time": "4d",
+                 "resources": { "elixir": 3800000 } 
+                 },
+            "11": {
+                 "time": "6d",
+                 "resources": { "elixir": 5500000 } 
+                 },
+            "12": {
+                 "time": "7d",
+                 "resources": { "elixir": 8100000 } 
+                 },
+            "13": {
+                 "time": "8d",
+                 "resources": { "elixir": 10800000 } 
+                 },
+            "14": {
+                 "time": "9d",
+                 "resources": { "elixir": 13000000 } 
+                 },
+            "15": {
+                 "time": "16d",
+                 "resources": { "elixir": 20000000 } 
                  }
         },
         "Army Camp": {
