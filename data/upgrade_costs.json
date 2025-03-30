@@ -1,0 +1,1471 @@
+{
+    "Buildings": {
+        "Cannons": {
+            "1": {
+                 "time": "1m",
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "3m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "10m",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1h 30m",
+                 "resources": { "gold": 100 } 
+                 },
+            "5": {
+                 "time": "2d 5h",
+                 "resources": { "gold": 100 } 
+                 },
+            "6": {
+                 "time": "4d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "7": {
+                 "time": "8d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "8": {
+                 "time": "16d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "9": {
+                 "time": "32d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "10": {
+                 "time": "64d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "11": {
+                 "time": "128d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "12": {
+                 "time": "256d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "13": {
+                 "time": "512d 12h",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Archer Towers": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Wizard Towers": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Mortars": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Air Defense": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Bomb Tower": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Inferno Towers": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "X-Bows": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Builder's Hut": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }  
+        },
+        "Scattershot": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Eagle Artillery": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 }, 
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Mortar": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Air Sweeper": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Barracks": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Dark Barracks": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Dark Spell Factory": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Workshop": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Laboratory": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Army Camp": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Hero Hall": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 }, 
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Pet House": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 }, 
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Blacksmith": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Clan Castle": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Gold Storage": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 }, 
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Elixir Storage": { 
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Dark Elixir Storage": {    
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Elixir Collector": {   
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Dark Elixir Collector": {  
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Gold Mine": {  
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Air Bombs": {   
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 }
+        },
+        "Bombs": {
+            "1": {
+                 "time": "2m",  
+                 "resources": { "gold": 100 } 
+                 },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+                 },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+                 },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },  
+        "Seeking Air Mines": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Giant Bombs": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Spring Traps": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Hidden Tesla": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Skeleton Trap": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Helper Hut": {
+            "1": {
+                 "time": "2m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "3": {
+                 "time": "2h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        }
+
+    },
+    "Heroes": {
+        "Barbarian King": {
+            "1": {
+                 "time": "6h",
+                 "resources": { "gold": 100 } 
+            },  
+            "2": {
+                 "time": "12h",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "7d",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Archer Queen": {
+            "1": {
+                 "time": "6h",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "12h",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "7d",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Grand Warden": {
+            "1": {
+                 "time": "6h",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "12h",
+                 "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Royal Champion": {
+            "1": {
+                 "time": "6h",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "12h",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "7d",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Minion Prince": {
+            "1": {
+                 "time": "6h",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "12h",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "7d",  
+                 "resources": { "gold": 100 } 
+            }
+        }
+    },
+    "Troops": {
+        "Barbarian": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Archer": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Giant": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",  
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Goblin": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Wall Breaker": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Balloon": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Wizard": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Healer": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Dragon": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "P.E.K.K.A": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Baby Dragon": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Miner": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Electro Dragon": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                 "time": "15m",
+                 "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Electro Titan": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Root Rider": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Thrower": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Minion": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },  
+        "Hog Rider": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Valkyrie": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Golem": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Witch": {
+            "1": {
+                 "time": "5m",
+                 "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Lava Hound": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Ice Golem": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },  
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Head Hunter": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Apprentice Warden": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",   
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Druid": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },
+            "2": {
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "4": {
+                 "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+            }
+        },
+        "Furnace": {
+            "1": {
+                "time": "5m",
+                "resources": { "gold": 100 } 
+            },
+            "2": {  
+                "time": "15m",
+                "resources": { "gold": 100 } 
+            },
+            "10": {
+                "time": "1d 12h",
+                "resources": { "gold": 100 } 
+            }
+        },
+        "Spells": {
+            "Lightning": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Healing": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Rage": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Jump": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Clone": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Freeze": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Invisibility": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Recall": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Revive": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Poison": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "3": {
+                    "time": "1d 3h 20m",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Earthquake": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Haste": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Skeleton": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Overgrowth": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            }
+        },
+        "Siege Machines": {
+            "Wall Wrecker": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Stone Slammer": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Battle Blimp": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },  
+                "2": {  
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }   
+            },
+            "Log Launcher": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Siege Barracks": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Flame Flinger": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Battle Drill": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            },
+            "Troop Launcher": {
+                "1": {
+                    "time": "5m",
+                    "resources": { "gold": 100 } 
+                },
+                "2": {
+                    "time": "15m",
+                    "resources": { "gold": 100 } 
+                },
+                "10": {
+                    "time": "1d 12h",
+                    "resources": { "gold": 100 } 
+                }
+            }
+        }   
+    }
+}
