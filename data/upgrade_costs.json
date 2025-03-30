@@ -640,21 +640,77 @@
         },
         "Barracks": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "10s",  
+                 "resources": { "elixir": 100 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "15s",
+                 "resources": { "elixir": 500 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "2m",
+                 "resources": { "elixir": 2500 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
-                 }
+                 "time": "30m",
+                 "resources": { "elixir": 5000 } 
+                 },
+            "5": {
+                 "time": "2h",
+                 "resources": { "elixir": 20000 } 
+                 },
+            "6": {
+                 "time": "4h",
+                 "resources": { "elixir": 120000 } 
+                 },
+            "7": {
+                 "time": "6h",
+                 "resources": { "elixir": 270000 }
+                 },
+            "8": {
+                 "time": "12h",
+                 "resources": { "elixir": 600000 }
+                 },
+            "9": {
+                 "time": "1d",
+                 "resources": { "elixir": 1000000 }
+                 },
+            "10": {
+                 "time": "1d 12h",
+                 "resources": { "elixir": 1400000 }
+                 },
+            "11": {
+                 "time": "2d",
+                 "resources": { "elixir": 2600000 }
+                 },
+            "12": {
+                 "time": "4d",
+                 "resources": { "elixir": 3700000 }
+                 },
+            "13": {
+                 "time": "5d",
+                 "resources": { "elixir": 6000000 }
+                 },
+            "14": {
+                 "time": "7d",
+                 "resources": { "elixir": 7000000 }
+                 },
+            "15": {
+                 "time": "7d 4h",
+                 "resources": { "elixir": 9000000 }
+                 },
+            "16": {
+                 "time": "8d",
+                 "resources": { "elixir": 11000000 }
+                 },
+            "17": {
+                 "time": "9d",
+                 "resources": { "elixir": 12600000 }
+                 },
+            "18": {
+                 "time": "11d",
+                 "resources": { "elixir": 15000000 }
+                }  
         },
         "Dark Barracks": {
             "1": {
