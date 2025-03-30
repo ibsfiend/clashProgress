@@ -3,6 +3,12 @@ using Newtonsoft.Json;
 
 namespace clashProgress
 {
+    public class LevelCount
+    {
+        public int? level { get; set; }
+        public int? count { get; set; }
+    }
+
     public class AirBomb
     {
         public int? level { get; set; }

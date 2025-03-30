@@ -12,7 +12,11 @@ namespace clashProgress.src {
 
             try {
                 string jsonString = File.ReadAllText(path);
-                return JsonConvert.DeserializeObject<T>(jsonString);
+                var result = JsonConvert.DeserializeObject<T>(jsonString);
+                if (result == null) {
+                    throw new Exception("Deserialized object is null");
+                }
+                return result;
             } catch (Exception e) {
                 throw new Exception($"Error loading JSON file: {e.Message}");
             }
