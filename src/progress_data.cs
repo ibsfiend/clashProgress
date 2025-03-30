@@ -19,18 +19,18 @@ namespace clashProgress.progress_data
 
 public class Root
 {
-    public Dictionary<string, Dictionary<string, List<LevelCount>>> Buildings { get; set; }
-    public Dictionary<string, int> Heroes { get; set; }
-    public Dictionary<string, Dictionary<string, List<EquipmentItem>>> HeroEquipment { get; set; }
-    public Dictionary<string, Dictionary<string, int>> Troops { get; set; }
-    public Dictionary<string, Dictionary<string, int>> Spells { get; set; }
-    public Dictionary<string, int> SiegeMachines { get; set; }
+    public Dictionary<string, Dictionary<string, List<LevelCount>>>? Buildings { get; set; }
+    public Dictionary<string, int>? Heroes { get; set; }
+    public Dictionary<string, Dictionary<string, List<EquipmentItem>>>? HeroEquipment { get; set; }
+    public Dictionary<string, Dictionary<string, int>>? Troops { get; set; }
+    public Dictionary<string, Dictionary<string, int>>? Spells { get; set; }
+    public Dictionary<string, int>? SiegeMachines { get; set; }
 }
 
 public class EquipmentItem
 {
-    public string Rarity { get; set; }
-    public int Level { get; set; }
+    public string? Rarity { get; set; }
+    public int? Level { get; set; }
 }
 
 }

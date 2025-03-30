@@ -6,7 +6,8 @@
                 { "level": 4, "count": 1 }
             ],
             "Archer Towers": [
-                { "level": 5, "count": 2 }
+                { "level": 5, "count": 2 },
+                { "level": 6, "count": 1 }
             ],
             "Wizard Towers": [
                 { "level": 5, "count": 2 }
