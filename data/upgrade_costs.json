@@ -323,31 +323,31 @@
                  },
             "3": {
                  "time": "6h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 210000 } 
                  },
             "4": {
                  "time": "12h",
-                 "resources": { "gold": 1200000 } 
+                 "resources": { "gold": 500000 } 
                  },
             "5": {
                  "time": "18h",
-                 "resources": { "gold": 1300000 } 
+                 "resources": { "gold": 800000 } 
                  },
             "6": {
                  "time": "1d",
-                 "resources": { "gold": 2000000 }
+                 "resources": { "gold": 1000000 }
                  },
             "7": {
                  "time": "2d",
-                 "resources": { "gold": 2500000 } 
+                 "resources": { "gold": 1750000 } 
                  },
             "8": {
                  "time": "2d 12h",
-                 "resources": { "gold": 3000000 } 
+                 "resources": { "gold": 2300000 } 
                  },
             "9": {
                  "time": "3d",
-                 "resources": { "gold": 4000000 } 
+                 "resources": { "gold": 3400000 } 
                  },
             "10": {
                  "time": "4d",
@@ -355,11 +355,11 @@
                  },
             "11": {
                  "time": "4d 12h",
-                 "resources": { "gold": 6000000 } 
+                 "resources": { "gold": 5600000 } 
                  },
             "12": {
                  "time": "5d",
-                 "resources": { "gold": 7000000 } 
+                 "resources": { "gold": 6500000 } 
                  },
             "13": {
                  "time": "6d",
@@ -371,12 +371,12 @@
                  },
             "15": {
                  "time": "15d 6h",
-                 "resources": { "gold": 10000000 } 
+                 "resources": { "gold": 21000000 } 
                  }
         },
         "Bomb Tower": {
             "1": {
-                 "time": "2m",
+                 "time": "12h",
                  "resources": { "gold": 100 } 
                  },
             "2": {
@@ -389,6 +389,38 @@
                  },
             "4": {
                  "time": "1d 3h 20m",
+                 "resources": { "gold": 100 } 
+                 },
+            "5": {
+                 "time": "1d 12h",
+                 "resources": { "gold": 100 } 
+                 },
+            "6": {
+                 "time": "2d",
+                 "resources": { "gold": 100 } 
+                      },
+            "7": {
+                 "time": "3d",
+                 "resources": { "gold": 100 } 
+                 },
+            "8": {
+                 "time": "4d",
+                 "resources": { "gold": 100 } 
+                 },
+            "9": {
+                 "time": "5d",
+                 "resources": { "gold": 100 } 
+                 },
+            "10": {
+                 "time": "6d",
+                 "resources": { "gold": 100 } 
+                 },
+            "11": {
+                 "time": "7d",
+                 "resources": { "gold": 100 }     
+                 },
+            "12": {
+                 "time": "8d",
                  "resources": { "gold": 100 } 
                  }
         },
