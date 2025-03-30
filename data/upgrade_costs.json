@@ -377,51 +377,51 @@
         "Bomb Tower": {
             "1": {
                  "time": "12h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 700000 } 
                  },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "18h",
+                 "resources": { "gold": 1000000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "1d",
+                 "resources": { "gold": 1300000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "1d 12h",
+                 "resources": { "gold": 1800000 } 
                  },
             "5": {
-                 "time": "1d 12h",
-                 "resources": { "gold": 100 } 
+                 "time": "1d 18h",
+                 "resources": { "gold": 1900000 } 
                  },
             "6": {
                  "time": "2d",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 3000000 } 
                       },
             "7": {
                  "time": "3d",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 4000000 } 
                  },
             "8": {
                  "time": "4d",
-                 "resources": { "gold": 100 } 
+                 "resources": { "gold": 5000000 } 
                  },
             "9": {
-                 "time": "5d",
-                 "resources": { "gold": 100 } 
+                 "time": "4d 12h",
+                 "resources": { "gold": 6000000 } 
                  },
             "10": {
-                 "time": "6d",
-                 "resources": { "gold": 100 } 
+                 "time": "5d",
+                 "resources": { "gold": 7000000 } 
                  },
             "11": {
-                 "time": "7d",
-                 "resources": { "gold": 100 }     
+                 "time": "6d 12h",
+                 "resources": { "gold": 8500000 }     
                  },
             "12": {
-                 "time": "8d",
-                 "resources": { "gold": 100 } 
+                 "time": "15d",
+                 "resources": { "gold": 20000000 } 
                  }
         },
         "Inferno Towers": {
