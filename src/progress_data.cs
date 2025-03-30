@@ -1,7 +1,7 @@
 //Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
 using Newtonsoft.Json;
 
-namespace clashProgress
+namespace clashProgress.progress_data
 {
     public class LevelCount
     {
