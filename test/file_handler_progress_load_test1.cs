@@ -19,6 +19,21 @@ public class FileHandlerProgressLoadTest {
         var atList = progress.Buildings["Defense"]["Archer Towers"]; 
         var level6at = atList.FirstOrDefault(at => at.Level == 6);
         Console.WriteLine("Number of Archer Towers at level 6: " + level6at.Count);
+        foreach (var category in progress.Buildings) // "Defense", "Support", etc.
+        {
+            Console.WriteLine($"Category: {category.Key}");
+
+            foreach (var building in category.Value) // "Archer Towers", "Walls", etc.
+            {
+                Console.WriteLine($"  Building: {building.Key}");
+
+                foreach (var levelEntry in building.Value) // list of LevelCount
+                {
+                    Console.WriteLine($"    Level {levelEntry.Level}: Count = {levelEntry.Count}");
+                }
+            }
+        }
+
     }
 }
 

@@ -608,40 +608,34 @@
                  "resources": { "gold": 14000000 } 
                  }
         },
-        "Mortar": {
-            "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
-                 },
-            "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
-                 },
-            "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
-                 },
-            "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
-                 }
-        },
         "Air Sweeper": {
             "1": {
-                 "time": "2m",  
+                 "time": "4h",  
                  "resources": { "gold": 100 } 
                  },
             "2": {
-                 "time": "5m",
+                 "time": "6h",
                  "resources": { "gold": 100 } 
                  },
             "3": {
-                 "time": "2h",
+                 "time": "8h",
                  "resources": { "gold": 100 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
+                 "time": "12h",
                  "resources": { "gold": 100 } 
+                 },
+            "5": {
+                 "time": "1d",
+                 "resources": { "gold": 22000000 } 
+                 },
+            "6": {
+                 "time": "2d",
+                 "resources": { "gold": 22000000 } 
+                 },
+            "7": {
+                 "time": "3d",
+                 "resources": { "gold": 22000000 } 
                  }
         },
         "Barracks": {

@@ -15,10 +15,10 @@
             "Mortars": [
                 { "level": 5, "count": 2 }
             ],
-            "Air Defense": [
+            "Air Defenses": [
                 { "level": 5, "count": 2 }
             ],
-            "Bomb Tower": [
+            "Bomb Towers": [
                 { "level": 1, "count": 1 }
             ],
             "Inferno Towers": [
@@ -27,19 +27,16 @@
             "X-Bows": [
                 { "level": 1, "count": 1 }
             ],
-            "Builder's Hut": [
+            "Builder's Huts": [
                 { "level": 1, "count": 1 }
             ],
-            "Scattershot": [
+            "Scattershots": [
                 { "level": 1, "count": 1 }
             ],
             "Eagle Artillery": [
                 { "level": 1, "count": 1 }
             ],
-            "Mortar": [
-                { "level": 1, "count": 1 }
-            ],
-            "Air Sweeper": [
+            "Air Sweepers": [
                 { "level": 1, "count": 1 }
             ]
         },
