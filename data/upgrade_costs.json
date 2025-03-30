@@ -580,20 +580,32 @@
         },
         "Eagle Artillery": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
-                 }, 
+                 "time": "4d",  
+                 "resources": { "gold": 5000000 } 
+                 },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "5d",
+                 "resources": { "gold": 6000000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "7d",
+                 "resources": { "gold": 9000000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "8d",
+                 "resources": { "gold": 10000000 } 
+                 },
+            "5": {
+                 "time": "9d",
+                 "resources": { "gold": 12000000 } 
+                 },
+            "6": {
+                 "time": "9d 12h",
+                 "resources": { "gold": 13000000 } 
+                 },
+            "7": {
+                 "time": "10d",
+                 "resources": { "gold": 14000000 } 
                  }
         },
         "Mortar": {
