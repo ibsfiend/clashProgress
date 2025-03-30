@@ -886,38 +886,102 @@
         },
         "Army Camp": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "1m",  
+                 "resources": { "elixir": 200 } 
                  },
             "2": {
                  "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "resources": { "elixir": 2000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "30m",
+                 "resources": { "elixir": 10000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "2h",
+                 "resources": { "elixir": 100000 } 
+                 },
+            "5": {
+                 "time": "6h",
+                 "resources": { "elixir": 250000 } 
+                 },
+            "6": {
+                 "time": "12h",
+                 "resources": { "elixir": 500000 } 
+                 },
+            "7": {
+                 "time": "2d",
+                 "resources": { "elixir": 1500000 } 
+                 },
+            "8": {
+                 "time": "3d",
+                 "resources": { "elixir": 2500000 } 
+                 },
+            "9": {
+                 "time": "4d",
+                 "resources": { "elixir": 4200000 } 
+                 },
+            "10": {
+                 "time": "5d",
+                 "resources": { "elixir": 4500000 } 
+                 },
+            "11": {
+                 "time": "6d",
+                 "resources": { "elixir": 7500000 } 
+                 },
+            "12": {
+                 "time": "7d",
+                 "resources": { "elixir": 10000000 } 
+                 },
+            "13": {
+                 "time": "15d",
+                 "resources": { "elixir": 21000000 } 
                  }
         },
         "Hero Hall": {
             "1": {
-                 "time": "2m",  
-                 "resources": { "gold": 100 } 
+                 "time": "1d",  
+                 "resources": { "elixir": 800000 } 
                  }, 
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2d",
+                 "resources": { "elixir": 1600000 } 
                  },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "3d",
+                 "resources": { "elixir": 2300000 } 
                  },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "5d",
+                 "resources": { "elixir": 3000000 } 
+                 },
+            "5": {
+                 "time": "6d",
+                 "resources": { "elixir": 5000000 } 
+                 },
+            "6": {
+                 "time": "7d",
+                 "resources": { "elixir": 6000000 } 
+                 },
+            "7": {
+                 "time": "7d 12h",
+                 "resources": { "elixir": 9000000 } 
+                 },
+            "8": {
+                 "time": "7d 18h",
+                 "resources": { "elixir": 10000000 } 
+                 },
+            "9": {
+                 "time": "8d",
+                 "resources": { "elixir": 12000000 } 
+                 },
+            "10": {
+                 "time": "9d",
+                 "resources": { "elixir": 14000000 } 
+                 },
+            "11": {
+                 "time": "15d 12h",
+                 "resources": { "elixir": 21000000 } 
                  }
         },
         "Pet House": {
@@ -936,8 +1000,37 @@
             "4": {
                  "time": "1d 3h 20m",
                  "resources": { "gold": 100 } 
+                 },
+            "5": {
+                 "time": "2d",
+                 "resources": { "gold": 100 } 
+                 },
+            "6": {
+                 "time": "3d",
+                 "resources": { "gold": 100 } 
+                 },
+            "7": {
+                 "time": "4d",
+                 "resources": { "gold": 100 } 
+                 },
+            "8": {
+                 "time": "5d",
+                 "resources": { "gold": 100 } 
+                 },
+            "9": {
+                 "time": "6d",
+                 "resources": { "gold": 100 }
+                 },
+            "10": {
+                 "time": "7d",
+                 "resources": { "gold": 100 }
+                 },
+            "11": {
+                 "time": "8d",
+                 "resources": { "gold": 100 }
                  }
         },
+
         "Blacksmith": {
             "1": {
                  "time": "2m",  
