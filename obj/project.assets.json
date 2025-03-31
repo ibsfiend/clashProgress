@@ -55,19 +55,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\goobis\\.nuget\\packages\\": {}
+    "C:\\Users\\j1tyl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\goobis\\OneDrive - Clemson University\\currentProjects\\clashProgress\\clashProgress.csproj",
+      "projectUniqueName": "C:\\Users\\j1tyl\\OneDrive - Clemson University\\currentProjects\\clashProgress\\clashProgress.csproj",
       "projectName": "clashProgress",
-      "projectPath": "C:\\Users\\goobis\\OneDrive - Clemson University\\currentProjects\\clashProgress\\clashProgress.csproj",
-      "packagesPath": "C:\\Users\\goobis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\goobis\\OneDrive - Clemson University\\currentProjects\\clashProgress\\obj\\",
+      "projectPath": "C:\\Users\\j1tyl\\OneDrive - Clemson University\\currentProjects\\clashProgress\\clashProgress.csproj",
+      "packagesPath": "C:\\Users\\j1tyl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\j1tyl\\OneDrive - Clemson University\\currentProjects\\clashProgress\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\goobis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\j1tyl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

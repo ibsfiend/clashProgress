@@ -37,9 +37,9 @@ public class FileHandlerUpgradeCostsLoadTest {
         }
     }
 
-    public static void Main(string[] args) {
+    /*public static void Main(string[] args) {
         string path = "data/upgrade_costs.json";
         var upgradeCosts = FileHandler.LoadJson<UpgradeCostData>(path);
         ListAllUpgradeables(upgradeCosts);
-    }
+    }*/
 }
