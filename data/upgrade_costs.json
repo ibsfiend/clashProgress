@@ -1792,72 +1792,1672 @@
         "Barbarian King": {
             "1": {
                  "time": "6h",
-                 "resources": { "gold": 100 } 
-            },  
+                 "resources": { "dark_elixir": 5000 }
+            },
             "2": {
+                 "time": "8h", 
+                 "resources": { "dark_elixir": 6000 }
+            },
+            "3": {
+                 "time": "10h",
+                 "resources": { "dark_elixir": 7000 }
+            },
+            "4": {
                  "time": "12h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 8000 }
+            },
+            "5": {
+                 "time": "14h",
+                 "resources": { "dark_elixir": 9000 }
+            },
+            "6": {
+                 "time": "16h",
+                 "resources": { "dark_elixir": 10000 }
+            },
+            "7": {
+                 "time": "18h",
+                 "resources": { "dark_elixir": 11000 }
+            },
+            "8": {
+                 "time": "20h",
+                 "resources": { "dark_elixir": 12000 }
+            },
+            "9": {
+                 "time": "22h",
+                 "resources": { "dark_elixir": 13000 }
             },
             "10": {
+                 "time": "1d",
+                 "resources": { "dark_elixir": 14000 }
+            },
+            "11": {
+                 "time": "1d 2h",
+                 "resources": { "dark_elixir": 15000 }
+            },
+            "12": {
+                 "time": "1d 4h",
+                 "resources": { "dark_elixir": 16000 }
+            },
+            "13": {
+                 "time": "1d 6h",
+                 "resources": { "dark_elixir": 17000 }
+            },
+            "14": {
+                 "time": "1d 8h",
+                 "resources": { "dark_elixir": 18000 }
+            },
+            "15": {
+                 "time": "1d 10h",
+                 "resources": { "dark_elixir": 19000 }
+            },
+            "16": {
+                 "time": "1d 12h",
+                 "resources": { "dark_elixir": 20000 }
+            },
+            "17": {
+                 "time": "1d 14h",
+                 "resources": { "dark_elixir": 21000 }
+            },
+            "18": {
+                 "time": "1d 16h",
+                 "resources": { "dark_elixir": 22000 }
+            },
+            "19": {
+                 "time": "1d 18h",
+                 "resources": { "dark_elixir": 23000 }
+            },
+            "20": {
+                 "time": "1d 20h",
+                 "resources": { "dark_elixir": 24000 }
+            },
+            "21": {
+                 "time": "1d 22h",
+                 "resources": { "dark_elixir": 25000 }
+            },
+            "22": {
+                 "time": "2d",
+                 "resources": { "dark_elixir": 26000 }
+            },
+            "23": {
+                 "time": "2d 2h",
+                 "resources": { "dark_elixir": 27000 }
+            },
+            "24": {
+                 "time": "2d 4h",
+                 "resources": { "dark_elixir": 28000 }
+            },
+            "25": {
+                 "time": "2d 6h",
+                 "resources": { "dark_elixir": 29000 }
+            },
+            "26": {
+                 "time": "2d 8h",
+                 "resources": { "dark_elixir": 30000 }
+            },
+            "27": {
+                 "time": "2d 10h",
+                 "resources": { "dark_elixir": 31000 }
+            },
+            "28": {
+                 "time": "2d 12h",
+                 "resources": { "dark_elixir": 32000 }
+            },
+            "29": {
+                 "time": "2d 14h",
+                 "resources": { "dark_elixir": 33000 }
+            },
+            "30": {
+                 "time": "2d 16h",
+                 "resources": { "dark_elixir": 34000 }
+            },
+            "31": {
+                 "time": "2d 18h",
+                 "resources": { "dark_elixir": 35000 }
+            },
+            "32": {
+                 "time": "2d 20h",
+                 "resources": { "dark_elixir": 36000 }
+            },
+            "33": {
+                 "time": "2d 22h",
+                 "resources": { "dark_elixir": 37000 }
+            },
+            "34": {
+                 "time": "3d",
+                 "resources": { "dark_elixir": 38000 }
+            },
+            "35": {
+                 "time": "3d 2h",
+                 "resources": { "dark_elixir": 39000 }
+            },
+            "36": {
+                 "time": "3d 4h",
+                 "resources": { "dark_elixir": 40000 }
+            },
+            "37": {
+                 "time": "3d 6h",
+                 "resources": { "dark_elixir": 41000 }
+            },
+            "38": {
+                 "time": "3d 8h",
+                 "resources": { "dark_elixir": 42000 }
+            },
+            "39": {
+                 "time": "3d 10h",
+                 "resources": { "dark_elixir": 43000 }
+            },
+            "40": {
+                 "time": "3d 12h",
+                 "resources": { "dark_elixir": 44000 }
+            },
+            "41": {
+                 "time": "3d 14h",
+                 "resources": { "dark_elixir": 45000 }
+            },
+            "42": {
+                 "time": "3d 16h",
+                 "resources": { "dark_elixir": 46000 }
+            },
+            "43": {
+                 "time": "3d 18h",
+                 "resources": { "dark_elixir": 47000 }
+            },
+            "44": {
+                 "time": "3d 20h",
+                 "resources": { "dark_elixir": 48000 }
+            },
+            "45": {
+                 "time": "3d 22h",
+                 "resources": { "dark_elixir": 49000 }
+            },
+            "46": {
+                 "time": "4d",
+                 "resources": { "dark_elixir": 50000 }
+            },
+            "47": {
+                 "time": "4d 2h",
+                 "resources": { "dark_elixir": 51000 }
+            },
+            "48": {
+                 "time": "4d 4h",
+                 "resources": { "dark_elixir": 52000 }
+            },
+            "49": {
+                 "time": "4d 6h",
+                 "resources": { "dark_elixir": 53000 }
+            },
+            "50": {
+                 "time": "4d 8h",
+                 "resources": { "dark_elixir": 54000 }
+            },
+            "51": {
+                 "time": "4d 10h",
+                 "resources": { "dark_elixir": 55000 }
+            },
+            "52": {
+                 "time": "4d 12h",
+                 "resources": { "dark_elixir": 56000 }
+            },
+            "53": {
+                 "time": "4d 14h",
+                 "resources": { "dark_elixir": 57000 }
+            },
+            "54": {
+                 "time": "4d 16h",
+                 "resources": { "dark_elixir": 58000 }
+            },
+            "55": {
+                 "time": "4d 18h",
+                 "resources": { "dark_elixir": 59000 }
+            },
+            "56": {
+                 "time": "4d 20h",
+                 "resources": { "dark_elixir": 60000 }
+            },
+            "57": {
+                 "time": "4d 22h",
+                 "resources": { "dark_elixir": 61000 }
+            },
+            "58": {
+                 "time": "5d",
+                 "resources": { "dark_elixir": 62000 }
+            },
+            "59": {
+                 "time": "5d 2h",
+                 "resources": { "dark_elixir": 63000 }
+            },
+            "60": {
+                 "time": "5d 4h",
+                 "resources": { "dark_elixir": 64000 }
+            },
+            "61": {
+                 "time": "5d 6h",
+                 "resources": { "dark_elixir": 65000 }
+            },
+            "62": {
+                 "time": "5d 8h",
+                 "resources": { "dark_elixir": 66000 }
+            },
+            "63": {
+                 "time": "5d 10h",
+                 "resources": { "dark_elixir": 67000 }
+            },
+            "64": {
+                 "time": "5d 12h",
+                 "resources": { "dark_elixir": 68000 }
+            },
+            "65": {
+                 "time": "5d 14h",
+                 "resources": { "dark_elixir": 69000 }
+            },
+            "66": {
+                 "time": "5d 16h",
+                 "resources": { "dark_elixir": 70000 }
+            },
+            "67": {
+                 "time": "5d 18h",
+                 "resources": { "dark_elixir": 71000 }
+            },
+            "68": {
+                 "time": "5d 20h",
+                 "resources": { "dark_elixir": 72000 }
+            },
+            "69": {
+                 "time": "5d 22h",
+                 "resources": { "dark_elixir": 73000 }
+            },
+            "70": {
+                 "time": "6d",
+                 "resources": { "dark_elixir": 74000 }
+            },
+            "71": {
+                 "time": "6d 2h",
+                 "resources": { "dark_elixir": 75000 }
+            },
+            "72": {
+                 "time": "6d 4h",
+                 "resources": { "dark_elixir": 76000 }
+            },
+            "73": {
+                 "time": "6d 6h",
+                 "resources": { "dark_elixir": 77000 }
+            },
+            "74": {
+                 "time": "6d 8h",
+                 "resources": { "dark_elixir": 78000 }
+            },
+            "75": {
+                 "time": "6d 10h",
+                 "resources": { "dark_elixir": 79000 }
+            },
+            "76": {
+                 "time": "6d 12h",
+                 "resources": { "dark_elixir": 80000 }
+            },
+            "77": {
+                 "time": "6d 14h",
+                 "resources": { "dark_elixir": 81000 }
+            },
+            "78": {
+                 "time": "6d 16h",
+                 "resources": { "dark_elixir": 82000 }
+            },
+            "79": {
+                 "time": "6d 18h",
+                 "resources": { "dark_elixir": 83000 }
+            },
+            "80": {
+                 "time": "6d 20h",
+                 "resources": { "dark_elixir": 84000 }
+            },
+            "81": {
+                 "time": "6d 22h",
+                 "resources": { "dark_elixir": 85000 }
+            },
+            "82": {
                  "time": "7d",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 86000 }
+            },
+            "83": {
+                 "time": "7d 2h",
+                 "resources": { "dark_elixir": 87000 }
+            },
+            "84": {
+                 "time": "7d 4h",
+                 "resources": { "dark_elixir": 88000 }
+            },
+            "85": {
+                 "time": "7d 6h",
+                 "resources": { "dark_elixir": 89000 }
+            },
+            "86": {
+                 "time": "7d 8h",
+                 "resources": { "dark_elixir": 90000 }
+            },
+            "87": {
+                 "time": "7d 10h",
+                 "resources": { "dark_elixir": 91000 }
+            },
+            "88": {
+                 "time": "7d 12h",
+                 "resources": { "dark_elixir": 92000 }
+            },
+            "89": {
+                 "time": "7d 14h",
+                 "resources": { "dark_elixir": 93000 }
+            },
+            "90": {
+                 "time": "7d 16h",
+                 "resources": { "dark_elixir": 94000 }
+            },
+            "91": {
+                 "time": "7d 18h",
+                 "resources": { "dark_elixir": 95000 }
+            },
+            "92": {
+                 "time": "7d 20h",
+                 "resources": { "dark_elixir": 96000 }
+            },
+            "93": {
+                 "time": "7d 22h",
+                 "resources": { "dark_elixir": 97000 }
+            },
+            "94": {
+                 "time": "8d",
+                 "resources": { "dark_elixir": 98000 }
+            },
+            "95": {
+                 "time": "8d 2h",
+                 "resources": { "dark_elixir": 99000 }
+            },
+            "96": {
+                 "time": "8d 4h",
+                 "resources": { "dark_elixir": 100000 }
+            },
+            "97": {
+                 "time": "8d 6h",
+                 "resources": { "dark_elixir": 101000 }
+            },
+            "98": {
+                 "time": "8d 8h",
+                 "resources": { "dark_elixir": 102000 }
+            },
+            "99": {
+                 "time": "8d 10h",
+                 "resources": { "dark_elixir": 103000 }
+            },
+            "100": {
+                 "time": "8d 12h",
+                 "resources": { "dark_elixir": 104000 }
             }
         },
         "Archer Queen": {
             "1": {
                  "time": "6h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 5000 }
             },
             "2": {
+                 "time": "8h", 
+                 "resources": { "dark_elixir": 6000 }
+            },
+            "3": {
+                 "time": "10h",
+                 "resources": { "dark_elixir": 7000 }
+            },
+            "4": {
                  "time": "12h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 8000 }
+            },
+            "5": {
+                 "time": "14h",
+                 "resources": { "dark_elixir": 9000 }
+            },
+            "6": {
+                 "time": "16h",
+                 "resources": { "dark_elixir": 10000 }
+            },
+            "7": {
+                 "time": "18h",
+                 "resources": { "dark_elixir": 11000 }
+            },
+            "8": {
+                 "time": "20h",
+                 "resources": { "dark_elixir": 12000 }
+            },
+            "9": {
+                 "time": "22h",
+                 "resources": { "dark_elixir": 13000 }
             },
             "10": {
+                 "time": "1d",
+                 "resources": { "dark_elixir": 14000 }
+            },
+            "11": {
+                 "time": "1d 2h",
+                 "resources": { "dark_elixir": 15000 }
+            },
+            "12": {
+                 "time": "1d 4h",
+                 "resources": { "dark_elixir": 16000 }
+            },
+            "13": {
+                 "time": "1d 6h",
+                 "resources": { "dark_elixir": 17000 }
+            },
+            "14": {
+                 "time": "1d 8h",
+                 "resources": { "dark_elixir": 18000 }
+            },
+            "15": {
+                 "time": "1d 10h",
+                 "resources": { "dark_elixir": 19000 }
+            },
+            "16": {
+                 "time": "1d 12h",
+                 "resources": { "dark_elixir": 20000 }
+            },
+            "17": {
+                 "time": "1d 14h",
+                 "resources": { "dark_elixir": 21000 }
+            },
+            "18": {
+                 "time": "1d 16h",
+                 "resources": { "dark_elixir": 22000 }
+            },
+            "19": {
+                 "time": "1d 18h",
+                 "resources": { "dark_elixir": 23000 }
+            },
+            "20": {
+                 "time": "1d 20h",
+                 "resources": { "dark_elixir": 24000 }
+            },
+            "21": {
+                 "time": "1d 22h",
+                 "resources": { "dark_elixir": 25000 }
+            },
+            "22": {
+                 "time": "2d",
+                 "resources": { "dark_elixir": 26000 }
+            },
+            "23": {
+                 "time": "2d 2h",
+                 "resources": { "dark_elixir": 27000 }
+            },
+            "24": {
+                 "time": "2d 4h",
+                 "resources": { "dark_elixir": 28000 }
+            },
+            "25": {
+                 "time": "2d 6h",
+                 "resources": { "dark_elixir": 29000 }
+            },
+            "26": {
+                 "time": "2d 8h",
+                 "resources": { "dark_elixir": 30000 }
+            },
+            "27": {
+                 "time": "2d 10h",
+                 "resources": { "dark_elixir": 31000 }
+            },
+            "28": {
+                 "time": "2d 12h",
+                 "resources": { "dark_elixir": 32000 }
+            },
+            "29": {
+                 "time": "2d 14h",
+                 "resources": { "dark_elixir": 33000 }
+            },
+            "30": {
+                 "time": "2d 16h",
+                 "resources": { "dark_elixir": 34000 }
+            },
+            "31": {
+                 "time": "2d 18h",
+                 "resources": { "dark_elixir": 35000 }
+            },
+            "32": {
+                 "time": "2d 20h",
+                 "resources": { "dark_elixir": 36000 }
+            },
+            "33": {
+                 "time": "2d 22h",
+                 "resources": { "dark_elixir": 37000 }
+            },
+            "34": {
+                 "time": "3d",
+                 "resources": { "dark_elixir": 38000 }
+            },
+            "35": {
+                 "time": "3d 2h",
+                 "resources": { "dark_elixir": 39000 }
+            },
+            "36": {
+                 "time": "3d 4h",
+                 "resources": { "dark_elixir": 40000 }
+            },
+            "37": {
+                 "time": "3d 6h",
+                 "resources": { "dark_elixir": 41000 }
+            },
+            "38": {
+                 "time": "3d 8h",
+                 "resources": { "dark_elixir": 42000 }
+            },
+            "39": {
+                 "time": "3d 10h",
+                 "resources": { "dark_elixir": 43000 }
+            },
+            "40": {
+                 "time": "3d 12h",
+                 "resources": { "dark_elixir": 44000 }
+            },
+            "41": {
+                 "time": "3d 14h",
+                 "resources": { "dark_elixir": 45000 }
+            },
+            "42": {
+                 "time": "3d 16h",
+                 "resources": { "dark_elixir": 46000 }
+            },
+            "43": {
+                 "time": "3d 18h",
+                 "resources": { "dark_elixir": 47000 }
+            },
+            "44": {
+                 "time": "3d 20h",
+                 "resources": { "dark_elixir": 48000 }
+            },
+            "45": {
+                 "time": "3d 22h",
+                 "resources": { "dark_elixir": 49000 }
+            },
+            "46": {
+                 "time": "4d",
+                 "resources": { "dark_elixir": 50000 }
+            },
+            "47": {
+                 "time": "4d 2h",
+                 "resources": { "dark_elixir": 51000 }
+            },
+            "48": {
+                 "time": "4d 4h",
+                 "resources": { "dark_elixir": 52000 }
+            },
+            "49": {
+                 "time": "4d 6h",
+                 "resources": { "dark_elixir": 53000 }
+            },
+            "50": {
+                 "time": "4d 8h",
+                 "resources": { "dark_elixir": 54000 }
+            },
+            "51": {
+                 "time": "4d 10h",
+                 "resources": { "dark_elixir": 55000 }
+            },
+            "52": {
+                 "time": "4d 12h",
+                 "resources": { "dark_elixir": 56000 }
+            },
+            "53": {
+                 "time": "4d 14h",
+                 "resources": { "dark_elixir": 57000 }
+            },
+            "54": {
+                 "time": "4d 16h",
+                 "resources": { "dark_elixir": 58000 }
+            },
+            "55": {
+                 "time": "4d 18h",
+                 "resources": { "dark_elixir": 59000 }
+            },
+            "56": {
+                 "time": "4d 20h",
+                 "resources": { "dark_elixir": 60000 }
+            },
+            "57": {
+                 "time": "4d 22h",
+                 "resources": { "dark_elixir": 61000 }
+            },
+            "58": {
+                 "time": "5d",
+                 "resources": { "dark_elixir": 62000 }
+            },
+            "59": {
+                 "time": "5d 2h",
+                 "resources": { "dark_elixir": 63000 }
+            },
+            "60": {
+                 "time": "5d 4h",
+                 "resources": { "dark_elixir": 64000 }
+            },
+            "61": {
+                 "time": "5d 6h",
+                 "resources": { "dark_elixir": 65000 }
+            },
+            "62": {
+                 "time": "5d 8h",
+                 "resources": { "dark_elixir": 66000 }
+            },
+            "63": {
+                 "time": "5d 10h",
+                 "resources": { "dark_elixir": 67000 }
+            },
+            "64": {
+                 "time": "5d 12h",
+                 "resources": { "dark_elixir": 68000 }
+            },
+            "65": {
+                 "time": "5d 14h",
+                 "resources": { "dark_elixir": 69000 }
+            },
+            "66": {
+                 "time": "5d 16h",
+                 "resources": { "dark_elixir": 70000 }
+            },
+            "67": {
+                 "time": "5d 18h",
+                 "resources": { "dark_elixir": 71000 }
+            },
+            "68": {
+                 "time": "5d 20h",
+                 "resources": { "dark_elixir": 72000 }
+            },
+            "69": {
+                 "time": "5d 22h",
+                 "resources": { "dark_elixir": 73000 }
+            },
+            "70": {
+                 "time": "6d",
+                 "resources": { "dark_elixir": 74000 }
+            },
+            "71": {
+                 "time": "6d 2h",
+                 "resources": { "dark_elixir": 75000 }
+            },
+            "72": {
+                 "time": "6d 4h",
+                 "resources": { "dark_elixir": 76000 }
+            },
+            "73": {
+                 "time": "6d 6h",
+                 "resources": { "dark_elixir": 77000 }
+            },
+            "74": {
+                 "time": "6d 8h",
+                 "resources": { "dark_elixir": 78000 }
+            },
+            "75": {
+                 "time": "6d 10h",
+                 "resources": { "dark_elixir": 79000 }
+            },
+            "76": {
+                 "time": "6d 12h",
+                 "resources": { "dark_elixir": 80000 }
+            },
+            "77": {
+                 "time": "6d 14h",
+                 "resources": { "dark_elixir": 81000 }
+            },
+            "78": {
+                 "time": "6d 16h",
+                 "resources": { "dark_elixir": 82000 }
+            },
+            "79": {
+                 "time": "6d 18h",
+                 "resources": { "dark_elixir": 83000 }
+            },
+            "80": {
+                 "time": "6d 20h",
+                 "resources": { "dark_elixir": 84000 }
+            },
+            "81": {
+                 "time": "6d 22h",
+                 "resources": { "dark_elixir": 85000 }
+            },
+            "82": {
                  "time": "7d",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 86000 }
+            },
+            "83": {
+                 "time": "7d 2h",
+                 "resources": { "dark_elixir": 87000 }
+            },
+            "84": {
+                 "time": "7d 4h",
+                 "resources": { "dark_elixir": 88000 }
+            },
+            "85": {
+                 "time": "7d 6h",
+                 "resources": { "dark_elixir": 89000 }
+            },
+            "86": {
+                 "time": "7d 8h",
+                 "resources": { "dark_elixir": 90000 }
+            },
+            "87": {
+                 "time": "7d 10h",
+                 "resources": { "dark_elixir": 91000 }
+            },
+            "88": {
+                 "time": "7d 12h",
+                 "resources": { "dark_elixir": 92000 }
+            },
+            "89": {
+                 "time": "7d 14h",
+                 "resources": { "dark_elixir": 93000 }
+            },
+            "90": {
+                 "time": "7d 16h",
+                 "resources": { "dark_elixir": 94000 }
+            },
+            "91": {
+                 "time": "7d 18h",
+                 "resources": { "dark_elixir": 95000 }
+            },
+            "92": {
+                 "time": "7d 20h",
+                 "resources": { "dark_elixir": 96000 }
+            },
+            "93": {
+                 "time": "7d 22h",
+                 "resources": { "dark_elixir": 97000 }
+            },
+            "94": {
+                 "time": "8d",
+                 "resources": { "dark_elixir": 98000 }
+            },
+            "95": {
+                 "time": "8d 2h",
+                 "resources": { "dark_elixir": 99000 }
+            },
+            "96": {
+                 "time": "8d 4h",
+                 "resources": { "dark_elixir": 100000 }
+            },
+            "97": {
+                 "time": "8d 6h",
+                 "resources": { "dark_elixir": 101000 }
+            },
+            "98": {
+                 "time": "8d 8h",
+                 "resources": { "dark_elixir": 102000 }
+            },
+            "99": {
+                 "time": "8d 10h",
+                 "resources": { "dark_elixir": 103000 }
+            },
+            "100": {
+                 "time": "8d 12h",
+                 "resources": { "dark_elixir": 104000 }
             }
         },
         "Grand Warden": {
             "1": {
                  "time": "6h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "elixir": 1000000 }
             },
             "2": {
-                 "time": "12h",
-                 "resources": { "gold": 100 } 
+                 "time": "8h",
+                 "resources": { "elixir": 2000000 }
+            },
+            "3": {
+                 "time": "10h",
+                 "resources": { "elixir": 3000000 }
             },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "12h",
+                 "resources": { "elixir": 4000000 }
+            },
+            "5": {
+                 "time": "14h",
+                 "resources": { "elixir": 5000000 }
+            },
+            "6": {
+                 "time": "16h",
+                 "resources": { "elixir": 6000000 }
+            },
+            "7": {
+                 "time": "18h",
+                 "resources": { "elixir": 7000000 }
+            },
+            "8": {
+                 "time": "20h",
+                 "resources": { "elixir": 8000000 }
+            },
+            "9": {
+                 "time": "22h",
+                 "resources": { "elixir": 9000000 }
+            },
+            "10": {
+                 "time": "1d",
+                 "resources": { "elixir": 10000000 }
+            },
+            "11": {
+                 "time": "1d 2h",
+                 "resources": { "elixir": 11000000 }
+            },
+            "12": {
+                 "time": "1d 4h",
+                 "resources": { "elixir": 12000000 }
+            },
+            "13": {
+                 "time": "1d 6h",
+                 "resources": { "elixir": 13000000 }
+            },
+            "14": {
+                 "time": "1d 8h",
+                 "resources": { "elixir": 14000000 }
+            },
+            "15": {
+                 "time": "1d 10h",
+                 "resources": { "elixir": 15000000 }
+            },
+            "16": {
+                 "time": "1d 12h",
+                 "resources": { "elixir": 16000000 }
+            },
+            "17": {
+                 "time": "1d 14h",
+                 "resources": { "elixir": 17000000 }
+            },
+            "18": {
+                 "time": "1d 16h",
+                 "resources": { "elixir": 18000000 }
+            },
+            "19": {
+                 "time": "1d 18h",
+                 "resources": { "elixir": 19000000 }
+            },
+            "20": {
+                 "time": "1d 20h",
+                 "resources": { "elixir": 20000000 }
+            },
+            "21": {
+                 "time": "1d 22h",
+                 "resources": { "elixir": 21000000 }
+            },
+            "22": {
+                 "time": "2d",
+                 "resources": { "elixir": 22000000 }
+            },
+            "23": {
+                 "time": "2d 4h",
+                 "resources": { "elixir": 23000000 }
+            },
+            "24": {
+                 "time": "2d 8h",
+                 "resources": { "elixir": 24000000 }
+            },
+            "25": {
+                 "time": "2d 12h",
+                 "resources": { "elixir": 25000000 }
+            },
+            "26": {
+                 "time": "2d 16h",
+                 "resources": { "elixir": 26000000 }
+            },
+            "27": {
+                 "time": "2d 20h",
+                 "resources": { "elixir": 27000000 }
+            },
+            "28": {
+                 "time": "3d",
+                 "resources": { "elixir": 28000000 }
+            },
+            "29": {
+                 "time": "3d 4h",
+                 "resources": { "elixir": 29000000 }
+            },
+            "30": {
+                 "time": "3d 8h",
+                 "resources": { "elixir": 30000000 }
+            },
+            "31": {
+                 "time": "3d 12h",
+                 "resources": { "elixir": 31000000 }
+            },
+            "32": {
+                 "time": "3d 16h",
+                 "resources": { "elixir": 32000000 }
+            },
+            "33": {
+                 "time": "3d 20h",
+                 "resources": { "elixir": 33000000 }
+            },
+            "34": {
+                 "time": "4d",
+                 "resources": { "elixir": 34000000 }
+            },
+            "35": {
+                 "time": "4d 4h",
+                 "resources": { "elixir": 35000000 }
+            },
+            "36": {
+                 "time": "4d 8h",
+                 "resources": { "elixir": 36000000 }
+            },
+            "37": {
+                 "time": "4d 12h",
+                 "resources": { "elixir": 37000000 }
+            },
+            "38": {
+                 "time": "4d 16h",
+                 "resources": { "elixir": 38000000 }
+            },
+            "39": {
+                 "time": "4d 20h",
+                 "resources": { "elixir": 39000000 }
+            },
+            "40": {
+                 "time": "5d",
+                 "resources": { "elixir": 40000000 }
+            },
+            "41": {
+                 "time": "5d 4h",
+                 "resources": { "elixir": 41000000 }
+            },
+            "42": {
+                 "time": "5d 8h",
+                 "resources": { "elixir": 42000000 }
+            },
+            "43": {
+                 "time": "5d 12h",
+                 "resources": { "elixir": 43000000 }
+            },
+            "44": {
+                 "time": "5d 16h",
+                 "resources": { "elixir": 44000000 }
+            },
+            "45": {
+                 "time": "5d 20h",
+                 "resources": { "elixir": 45000000 }
+            },
+            "46": {
+                 "time": "6d",
+                 "resources": { "elixir": 46000000 }
+            },
+            "47": {
+                 "time": "6d 4h",
+                 "resources": { "elixir": 47000000 }
+            },
+            "48": {
+                 "time": "6d 8h",
+                 "resources": { "elixir": 48000000 }
+            },
+            "49": {
+                 "time": "6d 12h",
+                 "resources": { "elixir": 49000000 }
+            },
+            "50": {
+                 "time": "6d 16h",
+                 "resources": { "elixir": 50000000 }
+            },
+            "51": {
+                 "time": "6d 20h",
+                 "resources": { "elixir": 51000000 }
+            },
+            "52": {
+                 "time": "7d",
+                 "resources": { "elixir": 52000000 }
+            },
+            "53": {
+                 "time": "7d 4h",
+                 "resources": { "elixir": 53000000 }
+            },
+            "54": {
+                 "time": "7d 8h",
+                 "resources": { "elixir": 54000000 }
+            },
+            "55": {
+                 "time": "7d 12h",
+                 "resources": { "elixir": 55000000 }
+            },
+            "56": {
+                 "time": "7d 16h",
+                 "resources": { "elixir": 56000000 }
+            },
+            "57": {
+                 "time": "7d 20h",
+                 "resources": { "elixir": 57000000 }
+            },
+            "58": {
+                 "time": "8d",
+                 "resources": { "elixir": 58000000 }
+            },
+            "59": {
+                 "time": "8d 4h",
+                 "resources": { "elixir": 59000000 }
+            },
+            "60": {
+                 "time": "8d 8h",
+                 "resources": { "elixir": 60000000 }
+            },
+            "61": {
+                 "time": "8d 12h",
+                 "resources": { "elixir": 61000000 }
+            },
+            "62": {
+                 "time": "8d 16h",
+                 "resources": { "elixir": 62000000 }
+            },
+            "63": {
+                 "time": "8d 20h",
+                 "resources": { "elixir": 63000000 }
+            },
+            "64": {
+                 "time": "9d",
+                 "resources": { "elixir": 64000000 }
+            },
+            "65": {
+                 "time": "9d 4h",
+                 "resources": { "elixir": 65000000 }
+            },
+            "66": {
+                 "time": "9d 8h",
+                 "resources": { "elixir": 66000000 }
+            },
+            "67": {
+                 "time": "9d 12h",
+                 "resources": { "elixir": 67000000 }
+            },
+            "68": {
+                 "time": "9d 16h",
+                 "resources": { "elixir": 68000000 }
+            },
+            "69": {
+                 "time": "9d 20h",
+                 "resources": { "elixir": 69000000 }
+            },
+            "70": {
+                 "time": "10d",
+                 "resources": { "elixir": 70000000 }
+            },
+            "71": {
+                 "time": "10d 4h",
+                 "resources": { "elixir": 71000000 }
+            },
+            "72": {
+                 "time": "10d 8h",
+                 "resources": { "elixir": 72000000 }
+            },
+            "73": {
+                 "time": "10d 12h",
+                 "resources": { "elixir": 73000000 }
+            },
+            "74": {
+                 "time": "10d 16h",
+                 "resources": { "elixir": 74000000 }
+            },
+            "75": {
+                 "time": "10d 20h",
+                 "resources": { "elixir": 75000000 }
             }
         },
         "Royal Champion": {
             "1": {
                  "time": "6h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 5000 }
             },
             "2": {
+                 "time": "8h", 
+                 "resources": { "dark_elixir": 6000 }
+            },
+            "3": {
+                 "time": "10h",
+                 "resources": { "dark_elixir": 7000 }
+            },
+            "4": {
                  "time": "12h",
-                 "resources": { "gold": 100 } 
+                 "resources": { "dark_elixir": 8000 }
+            },
+            "5": {
+                 "time": "14h",
+                 "resources": { "dark_elixir": 9000 }
+            },
+            "6": {
+                 "time": "16h",
+                 "resources": { "dark_elixir": 10000 }
+            },
+            "7": {
+                 "time": "18h",
+                 "resources": { "dark_elixir": 11000 }
+            },
+            "8": {
+                 "time": "20h",
+                 "resources": { "dark_elixir": 12000 }
+            },
+            "9": {
+                 "time": "22h",
+                 "resources": { "dark_elixir": 13000 }
             },
             "10": {
-                 "time": "7d",
-                 "resources": { "gold": 100 } 
+                 "time": "1d",
+                 "resources": { "dark_elixir": 14000 }
+            },
+            "11": {
+                 "time": "1d 2h",
+                 "resources": { "dark_elixir": 15000 }
+            },
+            "12": {
+                 "time": "1d 4h",
+                 "resources": { "dark_elixir": 16000 }
+            },
+            "13": {
+                 "time": "1d 6h",
+                 "resources": { "dark_elixir": 17000 }
+            },
+            "14": {
+                 "time": "1d 8h",
+                 "resources": { "dark_elixir": 18000 }
+            },
+            "15": {
+                 "time": "1d 10h",
+                 "resources": { "dark_elixir": 19000 }
+            },
+            "16": {
+                 "time": "1d 12h",
+                 "resources": { "dark_elixir": 20000 }
+            },
+            "17": {
+                 "time": "1d 14h",
+                 "resources": { "dark_elixir": 21000 }
+            },
+            "18": {
+                 "time": "1d 16h",
+                 "resources": { "dark_elixir": 22000 }
+            },
+            "19": {
+                 "time": "1d 18h",
+                 "resources": { "dark_elixir": 23000 }
+            },
+            "20": {
+                 "time": "1d 20h",
+                 "resources": { "dark_elixir": 24000 }
+            },
+            "21": {
+                 "time": "1d 22h",
+                 "resources": { "dark_elixir": 25000 }
+            },
+            "22": {
+                 "time": "2d",
+                 "resources": { "dark_elixir": 26000 }
+            },
+            "23": {
+                 "time": "2d 2h",
+                 "resources": { "dark_elixir": 27000 }
+            },
+            "24": {
+                 "time": "2d 4h",
+                 "resources": { "dark_elixir": 28000 }
+            },
+            "25": {
+                 "time": "2d 6h",
+                 "resources": { "dark_elixir": 29000 }
+            },
+            "26": {
+                 "time": "2d 8h",
+                 "resources": { "dark_elixir": 30000 }
+            },
+            "27": {
+                 "time": "2d 10h",
+                 "resources": { "dark_elixir": 31000 }
+            },
+            "28": {
+                 "time": "2d 12h",
+                 "resources": { "dark_elixir": 32000 }
+            },
+            "29": {
+                 "time": "2d 14h",
+                 "resources": { "dark_elixir": 33000 }
+            },
+            "30": {
+                 "time": "2d 16h",
+                 "resources": { "dark_elixir": 34000 }
+            },
+            "31": {
+                 "time": "2d 18h",
+                 "resources": { "dark_elixir": 35000 }
+            },
+            "32": {
+                 "time": "2d 20h",
+                 "resources": { "dark_elixir": 36000 }
+            },
+            "33": {
+                 "time": "2d 22h",
+                 "resources": { "dark_elixir": 37000 }
+            },
+            "34": {
+                 "time": "3d",
+                 "resources": { "dark_elixir": 38000 }
+            },
+            "35": {
+                 "time": "3d 2h",
+                 "resources": { "dark_elixir": 39000 }
+            },
+            "36": {
+                 "time": "3d 4h",
+                 "resources": { "dark_elixir": 40000 }
+            },
+            "37": {
+                 "time": "3d 6h",
+                 "resources": { "dark_elixir": 41000 }
+            },
+            "38": {
+                 "time": "3d 8h",
+                 "resources": { "dark_elixir": 42000 }
+            },
+            "39": {
+                 "time": "3d 10h",
+                 "resources": { "dark_elixir": 43000 }
+            },
+            "40": {
+                 "time": "3d 12h",
+                 "resources": { "dark_elixir": 44000 }
+            },
+            "41": {
+                 "time": "3d 14h",
+                 "resources": { "dark_elixir": 45000 }
+            },
+            "42": {
+                 "time": "3d 16h",
+                 "resources": { "dark_elixir": 46000 }
+            },
+            "43": {
+                 "time": "3d 18h",
+                 "resources": { "dark_elixir": 47000 }
+            },
+            "44": {
+                 "time": "3d 20h",
+                 "resources": { "dark_elixir": 48000 }
+            },
+            "45": {
+                 "time": "3d 22h",
+                 "resources": { "dark_elixir": 49000 }
+            },
+            "46": {
+                 "time": "4d",
+                 "resources": { "dark_elixir": 50000 }
+            },
+            "47": {
+                 "time": "4d 2h",
+                 "resources": { "dark_elixir": 51000 }
+            },
+            "48": {
+                 "time": "4d 4h",
+                 "resources": { "dark_elixir": 52000 }
+            },
+            "49": {
+                 "time": "4d 6h",
+                 "resources": { "dark_elixir": 53000 }
+            },
+            "50": {
+                 "time": "4d 8h",
+                 "resources": { "dark_elixir": 54000 }
             }
         },
         "Minion Prince": {
-            "1": {
-                 "time": "6h",
-                 "resources": { "gold": 100 } 
-            },
-            "2": {
-                 "time": "12h",
-                 "resources": { "gold": 100 } 
-            },
-            "10": {
-                 "time": "7d",  
-                 "resources": { "gold": 100 } 
-            }
+          "1": {
+               "time": "6h",
+               "resources": { "dark_elixir": 5000 }
+          },
+          "2": {
+               "time": "8h", 
+               "resources": { "dark_elixir": 6000 }
+          },
+          "3": {
+               "time": "10h",
+               "resources": { "dark_elixir": 7000 }
+          },
+          "4": {
+               "time": "12h",
+               "resources": { "dark_elixir": 8000 }
+          },
+          "5": {
+               "time": "14h",
+               "resources": { "dark_elixir": 9000 }
+          },
+          "6": {
+               "time": "16h",
+               "resources": { "dark_elixir": 10000 }
+          },
+          "7": {
+               "time": "18h",
+               "resources": { "dark_elixir": 11000 }
+          },
+          "8": {
+               "time": "20h",
+               "resources": { "dark_elixir": 12000 }
+          },
+          "9": {
+               "time": "22h",
+               "resources": { "dark_elixir": 13000 }
+          },
+          "10": {
+               "time": "1d",
+               "resources": { "dark_elixir": 14000 }
+          },
+          "11": {
+               "time": "1d 2h",
+               "resources": { "dark_elixir": 15000 }
+          },
+          "12": {
+               "time": "1d 4h",
+               "resources": { "dark_elixir": 16000 }
+          },
+          "13": {
+               "time": "1d 6h",
+               "resources": { "dark_elixir": 17000 }
+          },
+          "14": {
+               "time": "1d 8h",
+               "resources": { "dark_elixir": 18000 }
+          },
+          "15": {
+               "time": "1d 10h",
+               "resources": { "dark_elixir": 19000 }
+          },
+          "16": {
+               "time": "1d 12h",
+               "resources": { "dark_elixir": 20000 }
+          },
+          "17": {
+               "time": "1d 14h",
+               "resources": { "dark_elixir": 21000 }
+          },
+          "18": {
+               "time": "1d 16h",
+               "resources": { "dark_elixir": 22000 }
+          },
+          "19": {
+               "time": "1d 18h",
+               "resources": { "dark_elixir": 23000 }
+          },
+          "20": {
+               "time": "1d 20h",
+               "resources": { "dark_elixir": 24000 }
+          },
+          "21": {
+               "time": "1d 22h",
+               "resources": { "dark_elixir": 25000 }
+          },
+          "22": {
+               "time": "2d",
+               "resources": { "dark_elixir": 26000 }
+          },
+          "23": {
+               "time": "2d 2h",
+               "resources": { "dark_elixir": 27000 }
+          },
+          "24": {
+               "time": "2d 4h",
+               "resources": { "dark_elixir": 28000 }
+          },
+          "25": {
+               "time": "2d 6h",
+               "resources": { "dark_elixir": 29000 }
+          },
+          "26": {
+               "time": "2d 8h",
+               "resources": { "dark_elixir": 30000 }
+          },
+          "27": {
+               "time": "2d 10h",
+               "resources": { "dark_elixir": 31000 }
+          },
+          "28": {
+               "time": "2d 12h",
+               "resources": { "dark_elixir": 32000 }
+          },
+          "29": {
+               "time": "2d 14h",
+               "resources": { "dark_elixir": 33000 }
+          },
+          "30": {
+               "time": "2d 16h",
+               "resources": { "dark_elixir": 34000 }
+          },
+          "31": {
+               "time": "2d 18h",
+               "resources": { "dark_elixir": 35000 }
+          },
+          "32": {
+               "time": "2d 20h",
+               "resources": { "dark_elixir": 36000 }
+          },
+          "33": {
+               "time": "2d 22h",
+               "resources": { "dark_elixir": 37000 }
+          },
+          "34": {
+               "time": "3d",
+               "resources": { "dark_elixir": 38000 }
+          },
+          "35": {
+               "time": "3d 2h",
+               "resources": { "dark_elixir": 39000 }
+          },
+          "36": {
+               "time": "3d 4h",
+               "resources": { "dark_elixir": 40000 }
+          },
+          "37": {
+               "time": "3d 6h",
+               "resources": { "dark_elixir": 41000 }
+          },
+          "38": {
+               "time": "3d 8h",
+               "resources": { "dark_elixir": 42000 }
+          },
+          "39": {
+               "time": "3d 10h",
+               "resources": { "dark_elixir": 43000 }
+          },
+          "40": {
+               "time": "3d 12h",
+               "resources": { "dark_elixir": 44000 }
+          },
+          "41": {
+               "time": "3d 14h",
+               "resources": { "dark_elixir": 45000 }
+          },
+          "42": {
+               "time": "3d 16h",
+               "resources": { "dark_elixir": 46000 }
+          },
+          "43": {
+               "time": "3d 18h",
+               "resources": { "dark_elixir": 47000 }
+          },
+          "44": {
+               "time": "3d 20h",
+               "resources": { "dark_elixir": 48000 }
+          },
+          "45": {
+               "time": "3d 22h",
+               "resources": { "dark_elixir": 49000 }
+          },
+          "46": {
+               "time": "4d",
+               "resources": { "dark_elixir": 50000 }
+          },
+          "47": {
+               "time": "4d 2h",
+               "resources": { "dark_elixir": 51000 }
+          },
+          "48": {
+               "time": "4d 4h",
+               "resources": { "dark_elixir": 52000 }
+          },
+          "49": {
+               "time": "4d 6h",
+               "resources": { "dark_elixir": 53000 }
+          },
+          "50": {
+               "time": "4d 8h",
+               "resources": { "dark_elixir": 54000 }
+          },
+          "51": {
+               "time": "4d 10h",
+               "resources": { "dark_elixir": 55000 }
+          },
+          "52": {
+               "time": "4d 12h",
+               "resources": { "dark_elixir": 56000 }
+          },
+          "53": {
+               "time": "4d 14h",
+               "resources": { "dark_elixir": 57000 }
+          },
+          "54": {
+               "time": "4d 16h",
+               "resources": { "dark_elixir": 58000 }
+          },
+          "55": {
+               "time": "4d 18h",
+               "resources": { "dark_elixir": 59000 }
+          },
+          "56": {
+               "time": "4d 20h",
+               "resources": { "dark_elixir": 60000 }
+          },
+          "57": {
+               "time": "4d 22h",
+               "resources": { "dark_elixir": 61000 }
+          },
+          "58": {
+               "time": "5d",
+               "resources": { "dark_elixir": 62000 }
+          },
+          "59": {
+               "time": "5d 2h",
+               "resources": { "dark_elixir": 63000 }
+          },
+          "60": {
+               "time": "5d 4h",
+               "resources": { "dark_elixir": 64000 }
+          },
+          "61": {
+               "time": "5d 6h",
+               "resources": { "dark_elixir": 65000 }
+          },
+          "62": {
+               "time": "5d 8h",
+               "resources": { "dark_elixir": 66000 }
+          },
+          "63": {
+               "time": "5d 10h",
+               "resources": { "dark_elixir": 67000 }
+          },
+          "64": {
+               "time": "5d 12h",
+               "resources": { "dark_elixir": 68000 }
+          },
+          "65": {
+               "time": "5d 14h",
+               "resources": { "dark_elixir": 69000 }
+          },
+          "66": {
+               "time": "5d 16h",
+               "resources": { "dark_elixir": 70000 }
+          },
+          "67": {
+               "time": "5d 18h",
+               "resources": { "dark_elixir": 71000 }
+          },
+          "68": {
+               "time": "5d 20h",
+               "resources": { "dark_elixir": 72000 }
+          },
+          "69": {
+               "time": "5d 22h",
+               "resources": { "dark_elixir": 73000 }
+          },
+          "70": {
+               "time": "6d",
+               "resources": { "dark_elixir": 74000 }
+          },
+          "71": {
+               "time": "6d 2h",
+               "resources": { "dark_elixir": 75000 }
+          },
+          "72": {
+               "time": "6d 4h",
+               "resources": { "dark_elixir": 76000 }
+          },
+          "73": {
+               "time": "6d 6h",
+               "resources": { "dark_elixir": 77000 }
+          },
+          "74": {
+               "time": "6d 8h",
+               "resources": { "dark_elixir": 78000 }
+          },
+          "75": {
+               "time": "6d 10h",
+               "resources": { "dark_elixir": 79000 }
+          },
+          "76": {
+               "time": "6d 12h",
+               "resources": { "dark_elixir": 80000 }
+          },
+          "77": {
+               "time": "6d 14h",
+               "resources": { "dark_elixir": 81000 }
+          },
+          "78": {
+               "time": "6d 16h",
+               "resources": { "dark_elixir": 82000 }
+          },
+          "79": {
+               "time": "6d 18h",
+               "resources": { "dark_elixir": 83000 }
+          },
+          "80": {
+               "time": "6d 20h",
+               "resources": { "dark_elixir": 84000 }
+          },
+          "81": {
+               "time": "6d 22h",
+               "resources": { "dark_elixir": 85000 }
+          },
+          "82": {
+               "time": "7d",
+               "resources": { "dark_elixir": 86000 }
+          },
+          "83": {
+               "time": "7d 2h",
+               "resources": { "dark_elixir": 87000 }
+          },
+          "84": {
+               "time": "7d 4h",
+               "resources": { "dark_elixir": 88000 }
+          },
+          "85": {
+               "time": "7d 6h",
+               "resources": { "dark_elixir": 89000 }
+          },
+          "86": {
+               "time": "7d 8h",
+               "resources": { "dark_elixir": 90000 }
+          },
+          "87": {
+               "time": "7d 10h",
+               "resources": { "dark_elixir": 91000 }
+          },
+          "88": {
+               "time": "7d 12h",
+               "resources": { "dark_elixir": 92000 }
+          },
+          "89": {
+               "time": "7d 14h",
+               "resources": { "dark_elixir": 93000 }
+          },
+          "90": {
+               "time": "7d 16h",
+               "resources": { "dark_elixir": 94000 }
+          }
         }
     },
     "Troops": {
