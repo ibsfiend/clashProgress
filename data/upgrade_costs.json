@@ -1628,7 +1628,7 @@
                 "resources": { "gold": 14000000 } 
             }
         },
-        "Giant Bombs": {
+        "Giant Bomb": {
             "1": {
                  "time": "0m",  
                  "resources": { "gold": 12500 } 
@@ -1674,76 +1674,116 @@
                     "resources": { "gold": 12000000 } 
                  }
         },
-        "Spring Traps": {
+        "Spring Trap": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
+                 "time": "0m",
+                 "resources": { "gold": 2000 } 
             },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "2h",
+                 "resources": { "gold": 130000 } 
             },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "4h",
+                 "resources": { "gold": 240000 } 
             },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "6h",
+                 "resources": { "gold": 350000 } 
+            },
+            "5": {
+                "time": "12h",
+                "resources": { "gold": 800000 } 
             }
         },
         "Hidden Tesla": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "2h",  
+                 "resources": { "gold": 250000 } 
+                 },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "3h",
+                 "resources": { "gold": 350000 } 
+                 },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
-            },
+                 "time": "4h",
+                 "resources": { "gold": 500000 } 
+                 },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
-            }
+                 "time": "6h",
+                 "resources": { "gold": 600000 } 
+                 },
+            "5": {
+                 "time": "12h",
+                 "resources": { "gold": 800000 } 
+                 },
+            "6": {
+                 "time": "1d",
+                 "resources": { "gold": 1200000 } 
+                 },
+            "7": {
+                 "time": "1d 6h",
+                 "resources": { "gold": 1400000 } 
+                 },
+            "8": {
+               "time": "1d 12h",
+               "resources": { "gold": 1600000 } 
+                 },
+            "9": {
+                 "time": "1d 18h",
+                 "resources": { "gold": 2100000 } 
+                 },
+            "10": {
+                 "time": "2d",
+                 "resources": { "gold": 3000000 } 
+                 },
+            "11": {
+                 "time": "2d 12h",
+                 "resources": { "gold": 3100000 } 
+                 },
+            "12": {
+                 "time": "3d",
+                 "resources": { "gold": 3700000 } 
+                 },
+            "13": {
+                 "time": "4d",
+                 "resources": { "gold": 5100000 } 
+                 },
+            "14": {
+                 "time": "5d",
+                 "resources": { "gold": 6500000 } 
+                 },
+            "15": {
+                 "time": "6d",
+                 "resources": { "gold": 8200000 } 
+                 },
+            "16": {
+                 "time": "15d",
+                 "resources": { "gold": 20500000 } 
+                 }
         },
         "Skeleton Trap": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
+                 "time": "0m",
+                 "resources": { "gold": 6000 } 
             },
             "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
+                 "time": "5h",
+                 "resources": { "gold": 250000 } 
             },
             "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
+                 "time": "8h",
+                 "resources": { "gold": 400000 } 
             },
             "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "12h",
+                 "resources": { "gold": 1000000 } 
             }
         },
         "Helper Hut": {
             "1": {
-                 "time": "2m",
-                 "resources": { "gold": 100 } 
-            },
-            "2": {
-                 "time": "5m",
-                 "resources": { "gold": 100 } 
-            },
-            "3": {
-                 "time": "2h",
-                 "resources": { "gold": 100 } 
-            },
-            "4": {
-                 "time": "1d 3h 20m",
-                 "resources": { "gold": 100 } 
+                 "time": "0m",
+                 "resources": { "elixir": 1000000 } 
             }
         }
 
