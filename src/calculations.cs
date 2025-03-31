@@ -16,7 +16,18 @@ namespace Calculations
             {
                 // Split the part into a number and a unit
                 string[] part = parts[i].Split(new char[] { 'd', 'h', 'm', 's' }, StringSplitOptions.RemoveEmptyEntries);
-                
+                // Get the number from the part
+                double number = double.Parse(part[0]);
+
+                // Convert to seconds based on unit
+                if (parts[i].EndsWith("d"))
+                    seconds += number * 86400; // days to seconds
+                else if (parts[i].EndsWith("h"))
+                    seconds += number * 3600;  // hours to seconds
+                else if (parts[i].EndsWith("m"))
+                    seconds += number * 60;    // minutes to seconds
+                else if (parts[i].EndsWith("s"))
+                    seconds += number;         // already in seconds
                 
             }
             return seconds;
