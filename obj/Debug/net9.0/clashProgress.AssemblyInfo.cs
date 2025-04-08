@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("clashProgress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd571ebcd3809c4c7cb06c249e78ae8b01834b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87242b3871df6e084b798f892666a853e960e8e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("clashProgress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("clashProgress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
