@@ -1,5 +1,5 @@
-using clashProgress.upgrade_costs_data;
-using clashProgress.src;
+using clashProgress.models.upgrades;
+using clashProgress.services;
 using System;
 
 public class FileHandlerUpgradeCostsLoadTest {

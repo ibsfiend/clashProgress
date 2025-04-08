@@ -3,7 +3,7 @@ using System.IO;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 
-namespace clashProgress.src {
+namespace clashProgress.services {
     /// <summary>
     /// Handles loading and saving JSON files.
     /// </summary>

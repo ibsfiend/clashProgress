@@ -1,8 +1,7 @@
 //Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-using Newtonsoft.Json;
 using System.Text.Json.Serialization;
 
-namespace clashProgress.progress_data
+namespace clashProgress.models.progress
 {
     public class LevelCount {
         [JsonPropertyName("level")]

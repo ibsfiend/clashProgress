@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 using System.Collections.Generic;
-namespace clashProgress.upgrade_costs_data
+namespace clashProgress.models.upgrades
 {
     public class UpgradeCostData {
         [JsonProperty("Buildings")]

@@ -1,6 +1,6 @@
 using System;
 
-namespace Calculations
+namespace clashProgress.utils
 {
     public class Calculations
     {

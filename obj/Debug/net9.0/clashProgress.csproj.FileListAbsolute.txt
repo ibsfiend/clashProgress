@@ -39,3 +39,21 @@ C:\Users\j1tyl\OneDrive - Clemson University\currentProjects\clashProgress\bin\D
 C:\Users\j1tyl\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashPro.E5E14FB1.Up2Date
 C:\Users\j1tyl\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\clashProgress.genruntimeconfig.cache
 C:\Users\j1tyl\OneDrive - Clemson University\currentProjects\clashProgress\obj\Debug\net9.0\ref\clashProgress.dll
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\clashProgress.exe
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\clashProgress.deps.json
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\clashProgress.runtimeconfig.json
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\clashProgress.dll
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\clashProgress.pdb
+C:\Users\goobis\coding\clashProgress\clashProgress\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.csproj.AssemblyReference.cache
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfoInputs.cache
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.AssemblyInfo.cs
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.csproj.CoreCompileInputs.cache
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.sourcelink.json
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashPro.E5E14FB1.Up2Date
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.dll
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\refint\clashProgress.dll
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.pdb
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\clashProgress.genruntimeconfig.cache
+C:\Users\goobis\coding\clashProgress\clashProgress\obj\Debug\net9.0\ref\clashProgress.dll
