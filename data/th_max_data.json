@@ -1,0 +1,371 @@
+{
+  "TH1": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 2, "MaxCount": 1 },
+      "Walls": { "MaxLevel": 2, "MaxCount": 25 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 1
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH2": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 3, "MaxCount": 2 },
+      "Archer Tower": { "MaxLevel": 2, "MaxCount": 1 },
+      "Walls": { "MaxLevel": 2, "MaxCount": 50 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 2,
+      "Archer": 1
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH3": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 4, "MaxCount": 2 },
+      "Archer Tower": { "MaxLevel": 3, "MaxCount": 1 },
+      "Walls": { "MaxLevel": 3, "MaxCount": 75 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 3,
+      "Archer": 2
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH4": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 5, "MaxCount": 2 },
+      "Archer Tower": { "MaxLevel": 4, "MaxCount": 2 },
+      "Walls": { "MaxLevel": 4, "MaxCount": 100 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 4,
+      "Archer": 3
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH5": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 7, "MaxCount": 3 },
+      "Archer Tower": { "MaxLevel": 6, "MaxCount": 3 },
+      "Walls": { "MaxLevel": 5, "MaxCount": 125 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 5,
+      "Archer": 4
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH6": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 8, "MaxCount": 3 },
+      "Archer Tower": { "MaxLevel": 7, "MaxCount": 3 },
+      "Walls": { "MaxLevel": 6, "MaxCount": 150 }
+    },
+    "Heroes": {},
+    "Troops": {
+      "Barbarian": 6,
+      "Archer": 5
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH7": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 9, "MaxCount": 4 },
+      "Archer Tower": { "MaxLevel": 8, "MaxCount": 4 },
+      "Walls": { "MaxLevel": 7, "MaxCount": 175 }
+    },
+    "Heroes": {
+      "Barbarian King": 5
+    },
+    "Troops": {
+      "Barbarian": 7,
+      "Archer": 6
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH8": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 10, "MaxCount": 5 },
+      "Archer Tower": { "MaxLevel": 9, "MaxCount": 5 },
+      "Walls": { "MaxLevel": 8, "MaxCount": 200 }
+    },
+    "Heroes": {
+      "Barbarian King": 10
+    },
+    "Troops": {
+      "Barbarian": 8,
+      "Archer": 7
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH9": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 11, "MaxCount": 5 },
+      "Archer Tower": { "MaxLevel": 11, "MaxCount": 6 },
+      "X-Bow": { "MaxLevel": 3, "MaxCount": 2 },
+      "Walls": { "MaxLevel": 10, "MaxCount": 225 }
+    },
+    "Heroes": {
+      "Barbarian King": 30,
+      "Archer Queen": 30
+    },
+    "Troops": {
+      "Barbarian": 9,
+      "Archer": 8
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH10": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 13, "MaxCount": 6 },
+      "Archer Tower": { "MaxLevel": 13, "MaxCount": 7 },
+      "X-Bow": { "MaxLevel": 4, "MaxCount": 3 },
+      "Walls": { "MaxLevel": 11, "MaxCount": 250 }
+    },
+    "Heroes": {
+      "Barbarian King": 40,
+      "Archer Queen": 40
+    },
+    "Troops": {
+      "Barbarian": 9,
+      "Archer": 8
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH11": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 14, "MaxCount": 7 },
+      "Archer Tower": { "MaxLevel": 14, "MaxCount": 8 },
+      "X-Bow": { "MaxLevel": 5, "MaxCount": 4 },
+      "Walls": { "MaxLevel": 12, "MaxCount": 275 }
+    },
+    "Heroes": {
+      "Barbarian King": 50,
+      "Archer Queen": 50,
+      "Grand Warden": 20
+    },
+    "Troops": {
+      "Barbarian": 9,
+      "Archer": 9
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH12": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 16, "MaxCount": 7 },
+      "Archer Tower": { "MaxLevel": 16, "MaxCount": 8 },
+      "X-Bow": { "MaxLevel": 7, "MaxCount": 4 },
+      "Walls": { "MaxLevel": 13, "MaxCount": 300 }
+    },
+    "Heroes": {
+      "Barbarian King": 65,
+      "Archer Queen": 65,
+      "Grand Warden": 40
+    },
+    "Troops": {
+      "Barbarian": 10,
+      "Archer": 10,
+      "Electro Dragon": 3
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH13": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 18, "MaxCount": 7 },
+      "Archer Tower": { "MaxLevel": 18, "MaxCount": 8 },
+      "X-Bow": { "MaxLevel": 8, "MaxCount": 4 },
+      "Walls": { "MaxLevel": 14, "MaxCount": 300 }
+    },
+    "Heroes": {
+      "Barbarian King": 75,
+      "Archer Queen": 75,
+      "Grand Warden": 50,
+      "Royal Champion": 25
+    },
+    "Troops": {
+      "Barbarian": 10,
+      "Archer": 10,
+      "Electro Dragon": 4,
+      "Yeti": 3
+    },
+    "Pets": {},
+    "HeroEquipment": {}
+  },
+  "TH14": {
+    "Buildings": {
+      "Cannon": { "MaxLevel": 19, "MaxCount": 7 },
+      "Archer Tower": { "MaxLevel": 19, "MaxCount": 8 },
+      "X-Bow": { "MaxLevel": 9, "MaxCount": 4 },
+      "Walls": { "MaxLevel": 15, "MaxCount": 325 }
+    },
+    "Heroes": {
+      "Barbarian King": 80,
+      "Archer Queen": 80,
+      "Grand Warden": 55,
+      "Royal Champion": 30
+    },
+    "Troops": {
+      "Barbarian": 10,
+      "Archer": 10,
+      "Electro Dragon": 5,
+      "Yeti": 4
+    },
+    "Pets": {
+      "Frosty": 10,
+      "Diggy": 10,
+      "Poison Lizard": 10
+    },
+    "HeroEquipment": {}
+  },
+  "TH15": {
+    "Buildings": {
+      "Archer Tower": { "MaxLevel": 21, "MaxCount": 8 },
+      "Cannon": { "MaxLevel": 20, "MaxCount": 7 },
+      "Walls": { "MaxLevel": 16, "MaxCount": 325 },
+      "X-Bow": { "MaxLevel": 10, "MaxCount": 4 }
+    },
+    "Heroes": {
+      "Barbarian King": 90,
+      "Archer Queen": 90,
+      "Grand Warden": 70,
+      "Royal Champion": 40
+    },
+    "Troops": {
+      "Barbarian": 11,
+      "Archer": 11,
+      "Electro Dragon": 6,
+      "Yeti": 5,
+      "Apprentice Warden": 2
+    },
+    "Pets": {
+      "Frosty": 10,
+      "Diggy": 10,
+      "Poison Lizard": 10,
+      "Phoenix": 10
+    },
+    "HeroEquipment": {
+      "Invisibility Vial": {
+        "Hero": "Archer Queen",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Rage Gem": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Lightning Dagger": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 0,
+        "Unlocked": false
+      }
+    }
+  },
+  "TH16": {
+    "Buildings": {
+      "Archer Tower": { "MaxLevel": 22, "MaxCount": 8 },
+      "Cannon": { "MaxLevel": 21, "MaxCount": 7 },
+      "Walls": { "MaxLevel": 17, "MaxCount": 325 },
+      "X-Bow": { "MaxLevel": 11, "MaxCount": 4 }
+    },
+    "Heroes": {
+      "Barbarian King": 95,
+      "Archer Queen": 95,
+      "Grand Warden": 75,
+      "Royal Champion": 45
+    },
+    "Troops": {
+      "Barbarian": 12,
+      "Archer": 12,
+      "Electro Dragon": 7,
+      "Yeti": 6,
+      "Apprentice Warden": 3
+    },
+    "Pets": {
+      "Frosty": 10,
+      "Diggy": 10,
+      "Poison Lizard": 10,
+      "Phoenix": 10
+    },
+    "HeroEquipment": {
+      "Invisibility Vial": {
+        "Hero": "Archer Queen",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Rage Gem": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Lightning Dagger": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 5,
+        "Unlocked": true
+      }
+    }
+  },
+  "TH17": {
+    "Buildings": {
+      "Archer Tower": { "MaxLevel": 23, "MaxCount": 8 },
+      "Cannon": { "MaxLevel": 22, "MaxCount": 7 },
+      "Walls": { "MaxLevel": 18, "MaxCount": 325 },
+      "X-Bow": { "MaxLevel": 12, "MaxCount": 4 }
+    },
+    "Heroes": {
+      "Barbarian King": 100,
+      "Archer Queen": 100,
+      "Grand Warden": 80,
+      "Royal Champion": 50
+    },
+    "Troops": {
+      "Barbarian": 13,
+      "Archer": 13,
+      "Electro Dragon": 8,
+      "Yeti": 7,
+      "Apprentice Warden": 4
+    },
+    "Pets": {
+      "Frosty": 10,
+      "Diggy": 10,
+      "Poison Lizard": 10,
+      "Phoenix": 10
+    },
+    "HeroEquipment": {
+      "Invisibility Vial": {
+        "Hero": "Archer Queen",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Rage Gem": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 5,
+        "Unlocked": true
+      },
+      "Lightning Dagger": {
+        "Hero": "Barbarian King",
+        "MaxLevel": 5,
+        "Unlocked": true
+      }
+    }
+  }
+}
