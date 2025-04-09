@@ -12,8 +12,12 @@ namespace clashProgress.services {
             throw new Exception("Town Hall not found in buildings data.");
         }
 
-    public static timeToMax() {
-        var currentTHLevel = GetCurrentTHLevel(buildings);
-    }
+        public static timeToMax(Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
+            var currentTHLevel = GetCurrentTHLevel(buildings);
+            var maxTHLevel = THData.MaxTHLevels.Keys.Max();
+            var levelsToMax = maxTHLevel - currentTHLevel;
+            var timeToMax = TimeSpan.FromDays(levelsToMax * 3);
+            return timeToMax;
+        }
     }
 }
