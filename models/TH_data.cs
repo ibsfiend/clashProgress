@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace clashProgress.Models.Meta
+namespace clashProgress.models.maxTH
 {
     public class TownHallData
     {
