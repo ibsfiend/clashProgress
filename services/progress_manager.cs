@@ -19,5 +19,41 @@ namespace clashProgress.services {
             var timeToMax = TimeSpan.FromDays(levelsToMax * 3);
             return timeToMax;
         }
+
+        /// <summary>
+        /// Calculates the total level progress of the player's progress.
+        /// </summary>
+        /// <param name="buildings">Dictionary containing building data including Town Hall levels</param>
+        /// <returns>A double representing the total level progress</returns>
+        /// <remarks>
+        /// This method:
+        /// 1. Gets the building progress
+        /// 2. Gets the hero progress
+        /// 3. Gets the troop progress
+        /// 4. Adds the progress values together
+        /// 5. Returns the total progress
+        /// </remarks>
+        public static double getTotalLevelProgress(Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
+            var buildingProgress = getBuildingProgress();
+            var heroProgress = getHeroProgress();
+            var troopProgress = getTroopProgress();
+            var totalProgress = (buildingProgress + heroProgress + troopProgress);
+            return (double)totalProgress;
+        }
+
+        public static double getBuildingProgress(string building, int level, Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
+            var buildingList = buildings["Defense"][building];
+                
+        }
+
+        public static double getHeroProgress(string hero, Dictionary<string, int> heroes) {
+            var heroLevel = heroes[hero];
+            var maxHeroLevel = THData.MaxTHLevels[hero];
+            return (double)heroLevel / maxHeroLevel;
+        }
+
+        public static double getTroopProgress(string troop, int level, Dictionary<string, Dictionary<string, int>> troops) {
+            var troopList = troops["Troops"][troop];
+        }
     }
 }
