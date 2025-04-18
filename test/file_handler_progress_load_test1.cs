@@ -11,6 +11,13 @@ public class FileHandlerProgressLoadTest {
     /// Main method to test the FileHandler class to load the progress.json file.
     /// </summary>
     /// <param name="args">Command line arguments.</param>
+    /// <remarks>
+    /// This method:
+    /// 1. Loads the progress.json file
+    /// 2. Prints the Archer Queen level
+    /// 3. Prints the number of Archer Towers at level 6
+    /// 4. Prints the progress for each category of buildings
+    /// </remarks>
     public static void Main(string[] args) {
         string path = "data/progress.json";
         Root progress = FileHandler.LoadJson<Root>(path);
