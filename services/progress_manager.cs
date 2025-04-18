@@ -5,6 +5,18 @@ using clashProgress.models.maxTH;
 
 namespace clashProgress.services {
     public class ProgressManager {
+        /// <summary>
+        /// Gets the current Town Hall level from the buildings data.
+        /// </summary>
+        /// <param name="buildings">Dictionary containing building data including Town Hall levels</param>
+        /// <returns>An integer representing the current Town Hall level</returns>
+        /// <remarks>
+        /// This method:
+        /// 1. Tries to get the Defense category from the buildings data
+        /// 2. Tries to get the Town Hall building from the Defense category
+        /// 3. Returns the maximum level of the Town Hall building
+        /// </remarks>
+        /// <exception cref="Exception">Thrown when Town Hall not found in buildings data</exception>
         private static int GetCurrentTHLevel(Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
             if (buildings.TryGetValue("Defense", out var defenseBuildings) && defenseBuildings.TryGetValue("Town Hall", out var townHallList)) {
                 return townHallList.Max(th => th.Level ?? 0);
