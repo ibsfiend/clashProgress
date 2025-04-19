@@ -1,23 +1,23 @@
-//Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-using System.Text.Json.Serialization;
+
+using Newtonsoft.Json;
 
 namespace clashProgress.models.progress
 {
     public class LevelCount {
-        [JsonPropertyName("level")]
+        [JsonProperty("level")]
         public int? Level { get; set; }
 
-        [JsonPropertyName("count")]
+        [JsonProperty("count")]
         public int? Count { get; set; }
 
-        [JsonPropertyName("owned")]
+        [JsonProperty("owned")]
         public int? Owned { get; set; }
 
     }
 
     public class PlayerProgressContainer
     {
-        [JsonPropertyName("PlayerProgress")]
+        [JsonProperty("PlayerProgress")]
         public PlayerProgress Progress { get; set; }
     }
     public class PlayerProgress
