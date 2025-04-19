@@ -1,306 +1,308 @@
 {
-    "Buildings": {
-        "Defense": {
-            "Cannons": [
-                { "level": 2, "count": 3 },
-                { "level": 4, "count": 1 }
-            ],
-            "Archer Towers": [
-                { "level": 5, "count": 2 },
-                { "level": 6, "count": 1 }
-            ],
-            "Wizard Towers": [
+    "Player Progress": {
+        "Buildings": {
+            "Defense": {
+                "Cannons": [
+                    { "level": 2, "count": 3 },
+                    { "level": 4, "count": 1 }
+                ],
+                "Archer Towers": [
+                    { "level": 5, "count": 2 },
+                    { "level": 6, "count": 1 }
+                ],
+                "Wizard Towers": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Mortars": [
                 { "level": 5, "count": 2 }
-            ],
-            "Mortars": [
-                { "level": 5, "count": 2 }
-            ],
-            "Air Defenses": [
-                { "level": 5, "count": 2 }
-            ],
-            "Bomb Towers": [
-                { "level": 1, "count": 1 }
-            ],
-            "Inferno Towers": [
-                { "level": 1, "count": 1 }
-            ],
-            "X-Bows": [
-                { "level": 1, "count": 1 }
-            ],
-            "Builder's Huts": [
-                { "level": 1, "count": 1 }
-            ],
-            "Scattershots": [
-                { "level": 1, "count": 1 }
-            ],
-            "Eagle Artillery": [
-                { "level": 1, "count": 1 }
-            ],
-            "Air Sweepers": [
-                { "level": 1, "count": 1 }
-            ]
+                ],
+                "Air Defenses": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Bomb Towers": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Inferno Towers": [
+                    { "level": 1, "count": 1 }
+                ],
+                "X-Bows": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Builder's Huts": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Scattershots": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Eagle Artillery": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Air Sweepers": [
+                    { "level": 1, "count": 1 }
+                ]
+            },
+            "Army": {
+                "Barracks": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Dark Barracks": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Spell Factory": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Dark Spell Factory": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Workshop": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Laboratory": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Army Camp": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Hero Hall": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Pet House": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Blacksmith": [
+                    { "level": 8, "count": 1 }
+                ],
+                "Clan Castle": [
+                    { "level": 8, "count": 1 }
+                ]  
+            },
+            "Resource": {
+                "Gold Storage": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Elixir Storage": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Dark Elixir Storage": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Elixir Collector": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Dark Elixir Collector": [
+                    { "level": 5, "count": 2 }
+                ],
+                "Gold Mine": [
+                    { "level": 5, "count": 2 }
+                ]
+                
+            },
+            "Traps": {
+                "Air Bombs": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Bombs": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Seeking Air Mines": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Giant Bombs": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Spring Traps": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Hidden Tesla": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Tornado Trap": [
+                    { "level": 1, "count": 1 }
+                ],
+                "Skeleton Trap": [
+                    { "level": 1, "count": 1 } 
+                ]
+            },
+            "Support": {
+                "Helper Hut": [
+                    { "Builder": 1, "Lab": 1, "Alchemist": 1 }
+                ],
+                "Bob Control": [
+                    { "owned": 1 }
+                ],  
+                "Walls": [
+                    { "level": 1, "count": 1 }
+                ]
+            }
         },
-        "Army": {
-            "Barracks": [
-                { "level": 8, "count": 1 }
-            ],
-            "Dark Barracks": [
-                { "level": 8, "count": 1 }
-            ],
-            "Spell Factory": [
-                { "level": 8, "count": 1 }
-            ],
-            "Dark Spell Factory": [
-                { "level": 8, "count": 1 }
-            ],
-            "Workshop": [
-                { "level": 8, "count": 1 }
-            ],
-            "Laboratory": [
-                { "level": 8, "count": 1 }
-            ],
-            "Army Camp": [
-                { "level": 8, "count": 1 }
-            ],
-            "Hero Hall": [
-                { "level": 8, "count": 1 }
-            ],
-            "Pet House": [
-                { "level": 8, "count": 1 }
-            ],
-            "Blacksmith": [
-                { "level": 8, "count": 1 }
-            ],
-            "Clan Castle": [
-                { "level": 8, "count": 1 }
-            ]  
+        "Heroes": {
+            "Barbarian King": 60,
+            "Archer Queen": 55,
+            "Grand Warden": 45,
+            "Royal Champion": 35,
+            "Minion Prince": 52
         },
-        "Resource": {
-            "Gold Storage": [
-                { "level": 5, "count": 2 }
-            ],
-            "Elixir Storage": [
-                { "level": 5, "count": 2 }
-            ],
-            "Dark Elixir Storage": [
-                { "level": 5, "count": 2 }
-            ],
-            "Elixir Collector": [
-                { "level": 5, "count": 2 }
-            ],
-            "Dark Elixir Collector": [
-                { "level": 5, "count": 2 }
-            ],
-            "Gold Mine": [
-                { "level": 5, "count": 2 }
-            ]
+        "Hero Equipment": {
+            "Barbarian King": {
+                "Barbarian Puppet": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Rage Vial": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Earthquake Boots": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Vampire Stache": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Giant Gauntlet": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ],
+                "Spikey Ball": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ],
+                "Snake Bracelet": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ]
+            },
+            "Archer Queen": {
+                "Archer Puppet": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Invisibility Vial": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Giant Arrow": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Healer Puppet": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Magic Mirror": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ],
+                "Frozen Arrow": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ]
+            },
+            "Minion Prince": {
+                "Henchmen Puppet": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Dark Orb": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Metal Pants": [
+                    { "Rarity": "Common", "Level": 1 }
+                ]
+            },
+            "Grand Warden": {
+                "Eternal Tome": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Life Gem": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Healing Tome": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Rage Gem": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Lavaloon Puppet": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ],
+                "Fireball": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ]
+            },
+            "Royal Champion": {
+                "Seeking Shield":    [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Royal Gem": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Hog Puppet": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Haste Vial": [
+                    { "Rarity": "Common", "Level": 1 }
+                ],
+                "Electro Boots": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ],
+                "Rocket Spear": [
+                    { "Rarity": "Epic", "Level": 1 }
+                ]
+            }
             
         },
-        "Traps": {
-            "Air Bombs": [
-                { "level": 1, "count": 1 }
-            ],
-            "Bombs": [
-                { "level": 1, "count": 1 }
-            ],
-            "Seeking Air Mines": [
-                { "level": 1, "count": 1 }
-            ],
-            "Giant Bombs": [
-                { "level": 1, "count": 1 }
-            ],
-            "Spring Traps": [
-                { "level": 1, "count": 1 }
-            ],
-            "Hidden Tesla": [
-                { "level": 1, "count": 1 }
-            ],
-            "Tornado Trap": [
-                { "level": 1, "count": 1 }
-            ],
-            "Skeleton Trap": [
-                { "level": 1, "count": 1 } 
-            ]
+        "Troops": {
+            "Elixir Troops": {
+                "Barbarian": 1,
+                "Archer": 1,
+                "Giant": 1,
+                "Goblin": 1,
+                "Wall Breaker": 1,
+                "Balloon": 1,
+                "Wizard": 1,
+                "Healer": 1,
+                "Dragon": 1,
+                "P.E.K.K.A": 1,
+                "Baby Dragon": 1,
+                "Miner": 1,
+                "Electro Dragon": 1,
+                "Yeti": 1,
+                "Electro Titan": 1,
+                "Root Rider": 0,
+                "Thrower": 0
+            },
+            "Dark Elixir Troops": {
+                "Minion": 1,
+                "Hog Rider": 1,
+                "Valkyrie": 1,
+                "Golem": 1,
+                "Witch": 1,
+                "Lava Hound": 1,
+                "Bowler": 1,
+                "Ice Golem": 1,
+                "Head Hunter": 1,
+                "Apprentice Warden": 1,
+                "Druid": 1
+            }
         },
-        "Support": {
-            "Helper Hut": [
-                { "Builder": 1, "Lab": 1, "Alchemist": 1 }
-            ],
-            "Bob Control": [
-                { "owned": 1 }
-            ],  
-            "Walls": [
-                { "level": 1, "count": 1 }
-            ]
+        "Spells": {
+            "Elixir Spells": {
+                "Lightning": 1,
+                "Healing": 1,
+                "Rage": 1,
+                "Jump": 1,
+                "Clone": 1,
+                "Freeze": 1,
+                "Invisibility": 1,
+                "Recall": 1,
+                "Revive": 1
+            },
+            "Dark Elixir Spells": {
+                "Poison": 1,
+                "Earthquake": 1,
+                "Haste": 1,
+                "Skeleton": 1,
+                "Bat": 1,
+                "Overgrowth": 1
+            }
+        },
+        "Siege Machines": {
+            "Wall Wrecker": 1,
+            "Stone Slammer": 1,
+            "Log Launcher": 1,
+            "Battle Blimp": 1,
+            "Siege Barracks": 1,
+            "Flame Flinger": 1,
+            "Battle Drill": 1,
+            "Troop Launcher": 1
         }
-    },
-    "Heroes": {
-        "Barbarian King": 60,
-        "Archer Queen": 55,
-        "Grand Warden": 45,
-        "Royal Champion": 35,
-        "Minion Prince": 52
-    },
-    "Hero Equipment": {
-        "Barbarian King": {
-            "Barbarian Puppet": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Rage Vial": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Earthquake Boots": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Vampire Stache": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Giant Gauntlet": [
-                { "Rarity": "Epic", "Level": 1 }
-            ],
-            "Spikey Ball": [
-                { "Rarity": "Epic", "Level": 1 }
-            ],
-            "Snake Bracelet": [
-                { "Rarity": "Epic", "Level": 1 }
-            ]
-        },
-        "Archer Queen": {
-            "Archer Puppet": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Invisibility Vial": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Giant Arrow": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Healer Puppet": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Magic Mirror": [
-                { "Rarity": "Epic", "Level": 1 }
-            ],
-            "Frozen Arrow": [
-                { "Rarity": "Epic", "Level": 1 }
-            ]
-        },
-        "Minion Prince": {
-            "Henchmen Puppet": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Dark Orb": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Metal Pants": [
-                { "Rarity": "Common", "Level": 1 }
-            ]
-        },
-        "Grand Warden": {
-            "Eternal Tome": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Life Gem": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Healing Tome": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Rage Gem": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Lavaloon Puppet": [
-                { "Rarity": "Epic", "Level": 1 }
-            ],
-            "Fireball": [
-                { "Rarity": "Epic", "Level": 1 }
-            ]
-        },
-        "Royal Champion": {
-            "Seeking Shield":    [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Royal Gem": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Hog Puppet": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Haste Vial": [
-                { "Rarity": "Common", "Level": 1 }
-            ],
-            "Electro Boots": [
-                { "Rarity": "Epic", "Level": 1 }
-            ],
-            "Rocket Spear": [
-                { "Rarity": "Epic", "Level": 1 }
-            ]
-        }
-        
-    },
-    "Troops": {
-        "Elixir Troops": {
-            "Barbarian": 1,
-            "Archer": 1,
-            "Giant": 1,
-            "Goblin": 1,
-            "Wall Breaker": 1,
-            "Balloon": 1,
-            "Wizard": 1,
-            "Healer": 1,
-            "Dragon": 1,
-            "P.E.K.K.A": 1,
-            "Baby Dragon": 1,
-            "Miner": 1,
-            "Electro Dragon": 1,
-            "Yeti": 1,
-            "Electro Titan": 1,
-            "Root Rider": 0,
-            "Thrower": 0
-        },
-        "Dark Elixir Troops": {
-            "Minion": 1,
-            "Hog Rider": 1,
-            "Valkyrie": 1,
-            "Golem": 1,
-            "Witch": 1,
-            "Lava Hound": 1,
-            "Bowler": 1,
-            "Ice Golem": 1,
-            "Head Hunter": 1,
-            "Apprentice Warden": 1,
-            "Druid": 1
-        }
-    },
-    "Spells": {
-        "Elixir Spells": {
-            "Lightning": 1,
-            "Healing": 1,
-            "Rage": 1,
-            "Jump": 1,
-            "Clone": 1,
-            "Freeze": 1,
-            "Invisibility": 1,
-            "Recall": 1,
-            "Revive": 1
-        },
-        "Dark Elixir Spells": {
-            "Poison": 1,
-            "Earthquake": 1,
-            "Haste": 1,
-            "Skeleton": 1,
-            "Bat": 1,
-            "Overgrowth": 1
-        }
-    },
-    "Siege Machines": {
-        "Wall Wrecker": 1,
-        "Stone Slammer": 1,
-        "Log Launcher": 1,
-        "Battle Blimp": 1,
-        "Siege Barracks": 1,
-        "Flame Flinger": 1,
-        "Battle Drill": 1,
-        "Troop Launcher": 1
     }
 }
