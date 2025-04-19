@@ -14,7 +14,7 @@ namespace clashProgress.services {
         /// <typeparam name="T">The type of the object to deserialize.</typeparam>
         /// <param name="path">The path to the file to load the object from.</param>
         /// <returns>The deserialized object.</returns>
-        public static T LoadJson<T>(string path) {
+        public static T LoadFromFileJson<T>(string path) {
             if(!File.Exists(path)) {
                 throw new FileNotFoundException($"File not found: {path}");
             }
@@ -37,7 +37,7 @@ namespace clashProgress.services {
         /// <typeparam name="T">The type of the object to serialize.</typeparam>
         /// <param name="path">The path to the file to save the object to.</param>
         /// <param name="data">The object to save to the file.</param>
-        public static void SaveJson<T>(string path, T data) {
+        public static void SaveToFileJson<T>(string path, T data) {
             try {
                 string jsonString = JsonConvert.SerializeObject(data, Formatting.Indented);
                 File.WriteAllText(path, jsonString);
