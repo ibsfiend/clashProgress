@@ -1,4 +1,5 @@
 {
+  "THData": {
   "TH1": {
     "Buildings": {
       "Cannon": { "MaxLevel": 2, "MaxCount": 1 },
@@ -368,4 +369,5 @@
       }
     }
   }
+}
 }
