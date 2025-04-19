@@ -20,10 +20,10 @@ public class FileHandlerProgressLoadTest {
     /// </remarks>
     public static void Main(string[] args) {
         string path = "data/progress.json";
-        Root progress = FileHandler.LoadJson<Root>(path);
-        var aqLevel = progress.Heroes["Archer Queen"];
+        PlayerProgress progress = FileHandler.LoadJson<PlayerProgressContainer>(path);
+        var aqLevel = progress.Progress.Heroes["Archer Queen"];
         Console.WriteLine("Archer Queen Level: " + aqLevel);
-        var atList = progress.Buildings["Defense"]["Archer Towers"]; 
+        var atList = progress.Progress.Buildings["Defense"]["Archer Towers"]; 
         var level6at = atList.FirstOrDefault(at => at.Level == 6);
         Console.WriteLine("Number of Archer Towers at level 6: " + level6at.Count);
         foreach (var category in progress.Buildings) // "Defense", "Support", etc.
