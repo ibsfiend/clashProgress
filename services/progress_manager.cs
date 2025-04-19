@@ -2,6 +2,7 @@ using clashProgress.models.upgrades;
 using clashProgress.utils;
 using clashProgress.models.progress;
 using clashProgress.models.maxTH;
+using clashProgress.models.upgrade_analyzer;
 
 namespace clashProgress.services {
     public class ProgressManager {
@@ -25,7 +26,7 @@ namespace clashProgress.services {
         }
 
         public static double timeToMax(double buidingTime, double heroTime, double troopTime) {
-            var timeToMax =
+            var timeToMax = ;
 
             return timeToMax;
         }
@@ -43,13 +44,19 @@ namespace clashProgress.services {
         /// 4. Adds the progress values together
         /// 5. Returns the total progress
         /// </remarks>
-        public static double getTotalLevelProgress(Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
-            var buildingProgress = getBuildingProgress();
-            var heroProgress = getHeroProgress();
-            var troopProgress = getTroopProgress();
-            var totalProgress = (buildingProgress + heroProgress + troopProgress);
-            return (double)totalProgress;
+        public static double GetTotalLevelProgress(List<UpgradeInfoEntry> missingUpgrades)
+        {
+            double total = 0;
+            foreach (var upgrade in missingUpgrades)
+            {
+                foreach (var step in upgrade.Steps)
+                {
+                    total += 1; // or normalize based on max level to get a percentage-based system
+                }
+            }
+            return total;
         }
+
 
         public static double getBuildingProgress(string building, int level, Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
             var buildingList = buildings["Defense"][building];
