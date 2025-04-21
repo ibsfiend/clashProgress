@@ -59,7 +59,7 @@ namespace clashProgress.services {
         }
 
 
-        public static UpgradeCost getBuildingProgress(string building, int level, Dictionary<string, Dictionary<string, List<LevelCount>>> buildings) {
+        public static UpgradeCost getBuildingProgress(Buildings buildings) {
             var buildingList = buildings["Defense"][building];
             var buildingCost = new UpgradeCost();
             foreach (var step in buildingList) {
@@ -68,14 +68,15 @@ namespace clashProgress.services {
             return buildingCost;
         }
 
-        public static UpgradeCost getHeroProgress(string hero, Dictionary<string, int> heroes) {
+        public static UpgradeCost getHeroProgress(Heroes heroes) {
             var heroLevel = heroes[hero];
             var maxHeroLevel = THData.MaxTHLevels[hero];
-            return (double)heroLevel / maxHeroLevel;
+            return heroProgress;
         }
 
-        public static UpgradeCost getTroopProgress(string troop, int level, Dictionary<string, Dictionary<string, int>> troops) {
+        public static UpgradeCost getTroopProgress(Troops troops) {
             var troopList = troops["Troops"][troop];
+            return troopProgress;
         }
     }
 }
