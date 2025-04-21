@@ -68,13 +68,13 @@ namespace clashProgress.services {
             return buildingCost;
         }
 
-        public static UpgradeCost getHeroProgress(Heroes heroes) {
+        public static UpgradeCost getHeroProgress(Heroes heroes, int thLevel) {
             var heroLevel = heroes[hero];
             var maxHeroLevel = THData.MaxTHLevels[hero];
             return heroProgress;
         }
 
-        public static UpgradeCost getTroopProgress(Troops troops) {
+        public static UpgradeCost getTroopProgress(Troops troops, int thLevel) {
             var troopList = troops["Troops"][troop];
             return troopProgress;
         }
